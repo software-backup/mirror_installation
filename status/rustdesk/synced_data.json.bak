@@ -115,6 +115,10 @@
     "217789198": {
       "tag_name": "1.4.0",
       "fully_synced_at": "2025-08-23 18:30:50.179920"
+    },
+    "80480743": {
+      "tag_name": "nightly",
+      "fully_synced_at": "2025-08-23 18:33:11.446305"
     }
   },
   "assets": {
@@ -3237,6 +3241,152 @@
         "updated_at": "2025-08-23T18:33:11+00:00",
         "synced_at": "2025-08-23 18:33:11.436482"
       }
+    },
+    "234496301": {
+      "rustdesk-1.4.1-0-x86_64.pkg.tar.zst_22349325": {
+        "name": "rustdesk-1.4.1-0-x86_64.pkg.tar.zst",
+        "size": 22349325,
+        "updated_at": "2025-08-23T18:33:18+00:00",
+        "synced_at": "2025-08-23 18:33:18.702811"
+      },
+      "rustdesk-1.4.1-0.aarch64-suse.rpm_26950679": {
+        "name": "rustdesk-1.4.1-0.aarch64-suse.rpm",
+        "size": 26950679,
+        "updated_at": "2025-08-23T18:33:23+00:00",
+        "synced_at": "2025-08-23 18:33:23.170740"
+      },
+      "rustdesk-1.4.1-0.aarch64.rpm_26950597": {
+        "name": "rustdesk-1.4.1-0.aarch64.rpm",
+        "size": 26950597,
+        "updated_at": "2025-08-23T18:33:27+00:00",
+        "synced_at": "2025-08-23 18:33:27.851978"
+      },
+      "rustdesk-1.4.1-0.x86_64-suse.rpm_27731336": {
+        "name": "rustdesk-1.4.1-0.x86_64-suse.rpm",
+        "size": 27731336,
+        "updated_at": "2025-08-23T18:33:32+00:00",
+        "synced_at": "2025-08-23 18:33:32.278185"
+      },
+      "rustdesk-1.4.1-0.x86_64.rpm_27731283": {
+        "name": "rustdesk-1.4.1-0.x86_64.rpm",
+        "size": 27731283,
+        "updated_at": "2025-08-23T18:33:36+00:00",
+        "synced_at": "2025-08-23 18:33:36.561494"
+      },
+      "rustdesk-1.4.1-aarch64-signed.apk_24098036": {
+        "name": "rustdesk-1.4.1-aarch64-signed.apk",
+        "size": 24098036,
+        "updated_at": "2025-08-23T18:33:40+00:00",
+        "synced_at": "2025-08-23 18:33:40.599950"
+      },
+      "rustdesk-1.4.1-aarch64.AppImage_73710088": {
+        "name": "rustdesk-1.4.1-aarch64.AppImage",
+        "size": 73710088,
+        "updated_at": "2025-08-23T18:33:47+00:00",
+        "synced_at": "2025-08-23 18:33:47.928730"
+      },
+      "rustdesk-1.4.1-aarch64.deb_18852980": {
+        "name": "rustdesk-1.4.1-aarch64.deb",
+        "size": 18852980,
+        "updated_at": "2025-08-23T18:33:51+00:00",
+        "synced_at": "2025-08-23 18:33:51.822948"
+      },
+      "rustdesk-1.4.1-aarch64.dmg_23851414": {
+        "name": "rustdesk-1.4.1-aarch64.dmg",
+        "size": 23851414,
+        "updated_at": "2025-08-23T18:33:55+00:00",
+        "synced_at": "2025-08-23 18:33:55.691758"
+      },
+      "rustdesk-1.4.1-aarch64.flatpak_19216592": {
+        "name": "rustdesk-1.4.1-aarch64.flatpak",
+        "size": 19216592,
+        "updated_at": "2025-08-23T18:34:00+00:00",
+        "synced_at": "2025-08-23 18:34:00.255352"
+      },
+      "rustdesk-1.4.1-armv7-sciter.deb_10251168": {
+        "name": "rustdesk-1.4.1-armv7-sciter.deb",
+        "size": 10251168,
+        "updated_at": "2025-08-23T18:34:03+00:00",
+        "synced_at": "2025-08-23 18:34:04.057679"
+      },
+      "rustdesk-1.4.1-armv7-signed.apk_23381244": {
+        "name": "rustdesk-1.4.1-armv7-signed.apk",
+        "size": 23381244,
+        "updated_at": "2025-08-23T18:34:08+00:00",
+        "synced_at": "2025-08-23 18:34:08.440535"
+      },
+      "rustdesk-1.4.1-universal-signed.apk_64268088": {
+        "name": "rustdesk-1.4.1-universal-signed.apk",
+        "size": 64268088,
+        "updated_at": "2025-08-23T18:34:14+00:00",
+        "synced_at": "2025-08-23 18:34:14.495002"
+      },
+      "rustdesk-1.4.1-unsigned.tar.gz_84226711": {
+        "name": "rustdesk-1.4.1-unsigned.tar.gz",
+        "size": 84226711,
+        "updated_at": "2025-08-23T18:34:21+00:00",
+        "synced_at": "2025-08-23 18:34:21.884127"
+      },
+      "rustdesk-1.4.1-x86-sciter.exe_11000456": {
+        "name": "rustdesk-1.4.1-x86-sciter.exe",
+        "size": 11000456,
+        "updated_at": "2025-08-23T18:34:25+00:00",
+        "synced_at": "2025-08-23 18:34:25.682129"
+      },
+      "rustdesk-1.4.1-x86_64-sciter.deb_13968080": {
+        "name": "rustdesk-1.4.1-x86_64-sciter.deb",
+        "size": 13968080,
+        "updated_at": "2025-08-23T18:34:29+00:00",
+        "synced_at": "2025-08-23 18:34:29.471590"
+      },
+      "rustdesk-1.4.1-x86_64-sciter.flatpak_14303424": {
+        "name": "rustdesk-1.4.1-x86_64-sciter.flatpak",
+        "size": 14303424,
+        "updated_at": "2025-08-23T18:34:33+00:00",
+        "synced_at": "2025-08-23 18:34:33.880378"
+      },
+      "rustdesk-1.4.1-x86_64-signed.apk_23807208": {
+        "name": "rustdesk-1.4.1-x86_64-signed.apk",
+        "size": 23807208,
+        "updated_at": "2025-08-23T18:34:38+00:00",
+        "synced_at": "2025-08-23 18:34:38.320887"
+      },
+      "rustdesk-1.4.1-x86_64.AppImage_81881592": {
+        "name": "rustdesk-1.4.1-x86_64.AppImage",
+        "size": 81881592,
+        "updated_at": "2025-08-23T18:34:46+00:00",
+        "synced_at": "2025-08-23 18:34:46.527330"
+      },
+      "rustdesk-1.4.1-x86_64.deb_20634048": {
+        "name": "rustdesk-1.4.1-x86_64.deb",
+        "size": 20634048,
+        "updated_at": "2025-08-23T18:34:50+00:00",
+        "synced_at": "2025-08-23 18:34:50.467650"
+      },
+      "rustdesk-1.4.1-x86_64.dmg_30211077": {
+        "name": "rustdesk-1.4.1-x86_64.dmg",
+        "size": 30211077,
+        "updated_at": "2025-08-23T18:34:55+00:00",
+        "synced_at": "2025-08-23 18:34:55.212203"
+      },
+      "rustdesk-1.4.1-x86_64.exe_23092360": {
+        "name": "rustdesk-1.4.1-x86_64.exe",
+        "size": 23092360,
+        "updated_at": "2025-08-23T18:34:58+00:00",
+        "synced_at": "2025-08-23 18:34:58.847280"
+      },
+      "rustdesk-1.4.1-x86_64.flatpak_20998280": {
+        "name": "rustdesk-1.4.1-x86_64.flatpak",
+        "size": 20998280,
+        "updated_at": "2025-08-23T18:35:02+00:00",
+        "synced_at": "2025-08-23 18:35:02.784799"
+      },
+      "rustdesk-1.4.1-x86_64.msi_23396352": {
+        "name": "rustdesk-1.4.1-x86_64.msi",
+        "size": 23396352,
+        "updated_at": "2025-08-23T18:35:06+00:00",
+        "synced_at": "2025-08-23 18:35:07.037339"
+      }
     }
   },
   "source_codes": {
@@ -3538,6 +3688,16 @@
       "SourceCode_nightly.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-23 18:30:52.975490"
+      }
+    },
+    "1.4.1": {
+      "SourceCode_1.4.1.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 18:33:13.832089"
+      },
+      "SourceCode_1.4.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 18:33:13.836988"
       }
     }
   }
