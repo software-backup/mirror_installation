@@ -27,8 +27,8 @@ jobs:
             echo "目标仓库: $TARGET_REPO"
         - name: 检查更新并同步
           env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            SOURCE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.TOKEN }}
+            SOURCE_GITHUB_TOKEN: ${{ secrets.TOKEN }}
           run: python mirror_github_releases.py
   
   rustdesk_rustdesk:
@@ -43,3 +43,4 @@ jobs:
 
 
   
+
