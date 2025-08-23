@@ -19,6 +19,10 @@
     "44571412": {
       "tag_name": "1.1.6",
       "fully_synced_at": "2025-08-23 17:52:37.449781"
+    },
+    "48259144": {
+      "tag_name": "1.1.8",
+      "fully_synced_at": "2025-08-23 17:53:07.523835"
     }
   },
   "assets": {
@@ -231,6 +235,80 @@
         "updated_at": "2025-08-23T17:53:07+00:00",
         "synced_at": "2025-08-23 17:53:07.520175"
       }
+    },
+    "65824683": {
+      "rustdesk-1.1.9-fedora28-centos8.rpm_6725292": {
+        "name": "rustdesk-1.1.9-fedora28-centos8.rpm",
+        "size": 6725292,
+        "updated_at": "2025-08-23T17:53:13+00:00",
+        "synced_at": "2025-08-23 17:53:13.639429"
+      },
+      "rustdesk-1.1.9-manjaro-arch.pkg.tar.zst_8282366": {
+        "name": "rustdesk-1.1.9-manjaro-arch.pkg.tar.zst",
+        "size": 8282366,
+        "updated_at": "2025-08-23T17:53:17+00:00",
+        "synced_at": "2025-08-23 17:53:17.329865"
+      },
+      "rustdesk-1.1.9-raspberry-armhf.deb_4896116": {
+        "name": "rustdesk-1.1.9-raspberry-armhf.deb",
+        "size": 4896116,
+        "updated_at": "2025-08-23T17:53:20+00:00",
+        "synced_at": "2025-08-23 17:53:20.560914"
+      },
+      "rustdesk-1.1.9-suse.rpm_6211136": {
+        "name": "rustdesk-1.1.9-suse.rpm",
+        "size": 6211136,
+        "updated_at": "2025-08-23T17:53:24+00:00",
+        "synced_at": "2025-08-23 17:53:24.299219"
+      },
+      "rustdesk-1.1.9-windows_x32-portable.zip_5993706": {
+        "name": "rustdesk-1.1.9-windows_x32-portable.zip",
+        "size": 5993706,
+        "updated_at": "2025-08-23T17:53:27+00:00",
+        "synced_at": "2025-08-23 17:53:27.636773"
+      },
+      "rustdesk-1.1.9-windows_x32.zip_5993795": {
+        "name": "rustdesk-1.1.9-windows_x32.zip",
+        "size": 5993795,
+        "updated_at": "2025-08-23T17:53:31+00:00",
+        "synced_at": "2025-08-23 17:53:31.234967"
+      },
+      "rustdesk-1.1.9-windows_x64-portable.zip_6601428": {
+        "name": "rustdesk-1.1.9-windows_x64-portable.zip",
+        "size": 6601428,
+        "updated_at": "2025-08-23T17:53:35+00:00",
+        "synced_at": "2025-08-23 17:53:35.246238"
+      },
+      "rustdesk-1.1.9-windows_x64.zip_6601517": {
+        "name": "rustdesk-1.1.9-windows_x64.zip",
+        "size": 6601517,
+        "updated_at": "2025-08-23T17:53:38+00:00",
+        "synced_at": "2025-08-23 17:53:38.669283"
+      },
+      "rustdesk-1.1.9-x32.exe_12866096": {
+        "name": "rustdesk-1.1.9-x32.exe",
+        "size": 12866096,
+        "updated_at": "2025-08-23T17:53:42+00:00",
+        "synced_at": "2025-08-23 17:53:42.605911"
+      },
+      "rustdesk-1.1.9-x64.exe_15189552": {
+        "name": "rustdesk-1.1.9-x64.exe",
+        "size": 15189552,
+        "updated_at": "2025-08-23T17:53:46+00:00",
+        "synced_at": "2025-08-23 17:53:46.811619"
+      },
+      "rustdesk-1.1.9.deb_6203088": {
+        "name": "rustdesk-1.1.9.deb",
+        "size": 6203088,
+        "updated_at": "2025-08-23T17:53:50+00:00",
+        "synced_at": "2025-08-23 17:53:50.264374"
+      },
+      "rustdesk-1.1.9.dmg_15702065": {
+        "name": "rustdesk-1.1.9.dmg",
+        "size": 15702065,
+        "updated_at": "2025-08-23T17:53:54+00:00",
+        "synced_at": "2025-08-23 17:53:54.237303"
+      }
     }
   },
   "source_codes": {
@@ -292,6 +370,16 @@
       "SourceCode_1.1.8.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-23 17:52:39.660458"
+      }
+    },
+    "1.1.9": {
+      "SourceCode_1.1.9.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:53:09.982064"
+      },
+      "SourceCode_1.1.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:53:09.983051"
       }
     }
   }
