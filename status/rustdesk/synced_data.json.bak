@@ -1,0 +1,37 @@
+{
+  "releases": {},
+  "assets": {
+    "40570836": {
+      "rustdesk-1.1.2.deb_5350980": {
+        "name": "rustdesk-1.1.2.deb",
+        "size": 5350980,
+        "updated_at": "2025-08-23T17:48:15+00:00",
+        "synced_at": "2025-08-23 17:48:15.828079"
+      },
+      "rustdesk-1.1.2.dmg_8554864": {
+        "name": "rustdesk-1.1.2.dmg",
+        "size": 8554864,
+        "updated_at": "2025-08-23T17:48:18+00:00",
+        "synced_at": "2025-08-23 17:48:18.827673"
+      },
+      "rustdesk-1.1.2.exe_12970944": {
+        "name": "rustdesk-1.1.2.exe",
+        "size": 12970944,
+        "updated_at": "2025-08-23T17:48:21+00:00",
+        "synced_at": "2025-08-23 17:48:21.925706"
+      }
+    }
+  },
+  "source_codes": {
+    "1.1.2": {
+      "SourceCode_1.1.2.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:48:12.769637"
+      },
+      "SourceCode_1.1.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:48:12.769859"
+      }
+    }
+  }
+}
