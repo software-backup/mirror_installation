@@ -2,15 +2,19 @@
   "releases": {
     "40570836": {
       "tag_name": "1.1.2",
-      "fully_synced_at": "2025-08-23 17:48:21.928595"
+      "fully_synced_at": "2025-08-23 17:51:41.296080"
     },
     "41136696": {
       "tag_name": "1.1.3",
-      "fully_synced_at": "2025-08-23 17:48:32.613106"
+      "fully_synced_at": "2025-08-23 17:51:43.375667"
     },
     "41981620": {
       "tag_name": "1.1.4",
-      "fully_synced_at": "2025-08-23 17:48:49.368420"
+      "fully_synced_at": "2025-08-23 17:51:45.272379"
+    },
+    "42809747": {
+      "tag_name": "1.1.5",
+      "fully_synced_at": "2025-08-23 17:52:02.614480"
     }
   },
   "assets": {
@@ -85,6 +89,38 @@
         "updated_at": "2025-08-23T17:48:49+00:00",
         "synced_at": "2025-08-23 17:48:49.365290"
       }
+    },
+    "42809747": {
+      "rustdesk-1.1.5-fedora28-centos8.rpm_5820464": {
+        "name": "rustdesk-1.1.5-fedora28-centos8.rpm",
+        "size": 5820464,
+        "updated_at": "2025-08-23T17:51:48+00:00",
+        "synced_at": "2025-08-23 17:51:49.124844"
+      },
+      "rustdesk-1.1.5-manjaro-arch.pkg.tar.zst_7118364": {
+        "name": "rustdesk-1.1.5-manjaro-arch.pkg.tar.zst",
+        "size": 7118364,
+        "updated_at": "2025-08-23T17:51:52+00:00",
+        "synced_at": "2025-08-23 17:51:52.384268"
+      },
+      "rustdesk-1.1.5.deb_5472948": {
+        "name": "rustdesk-1.1.5.deb",
+        "size": 5472948,
+        "updated_at": "2025-08-23T17:51:55+00:00",
+        "synced_at": "2025-08-23 17:51:55.963580"
+      },
+      "rustdesk-1.1.5.dmg_9662474": {
+        "name": "rustdesk-1.1.5.dmg",
+        "size": 9662474,
+        "updated_at": "2025-08-23T17:51:59+00:00",
+        "synced_at": "2025-08-23 17:51:59.390841"
+      },
+      "rustdesk-1.1.5.zip_5612218": {
+        "name": "rustdesk-1.1.5.zip",
+        "size": 5612218,
+        "updated_at": "2025-08-23T17:52:02+00:00",
+        "synced_at": "2025-08-23 17:52:02.612973"
+      }
     }
   },
   "source_codes": {
@@ -116,6 +152,16 @@
       "SourceCode_1.1.4.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-23 17:48:34.163704"
+      }
+    },
+    "1.1.5": {
+      "SourceCode_1.1.5.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:51:46.702753"
+      },
+      "SourceCode_1.1.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:51:46.703157"
       }
     }
   }
