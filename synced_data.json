@@ -11,6 +11,10 @@
     "41981620": {
       "tag_name": "1.1.4",
       "fully_synced_at": "2025-08-23 17:27:21.491908"
+    },
+    "42809747": {
+      "tag_name": "1.1.5",
+      "fully_synced_at": "2025-08-23 17:27:42.086702"
     }
   },
   "assets": {
@@ -85,6 +89,38 @@
         "updated_at": "2025-08-23T17:27:21+00:00",
         "synced_at": "2025-08-23 17:27:21.488878"
       }
+    },
+    "42809747": {
+      "rustdesk-1.1.5-fedora28-centos8.rpm_5820464": {
+        "name": "rustdesk-1.1.5-fedora28-centos8.rpm",
+        "size": 5820464,
+        "updated_at": "2025-08-23T17:27:27+00:00",
+        "synced_at": "2025-08-23 17:27:27.811088"
+      },
+      "rustdesk-1.1.5-manjaro-arch.pkg.tar.zst_7118364": {
+        "name": "rustdesk-1.1.5-manjaro-arch.pkg.tar.zst",
+        "size": 7118364,
+        "updated_at": "2025-08-23T17:27:31+00:00",
+        "synced_at": "2025-08-23 17:27:31.493696"
+      },
+      "rustdesk-1.1.5.deb_5472948": {
+        "name": "rustdesk-1.1.5.deb",
+        "size": 5472948,
+        "updated_at": "2025-08-23T17:27:34+00:00",
+        "synced_at": "2025-08-23 17:27:34.653570"
+      },
+      "rustdesk-1.1.5.dmg_9662474": {
+        "name": "rustdesk-1.1.5.dmg",
+        "size": 9662474,
+        "updated_at": "2025-08-23T17:27:38+00:00",
+        "synced_at": "2025-08-23 17:27:38.618603"
+      },
+      "rustdesk-1.1.5.zip_5612218": {
+        "name": "rustdesk-1.1.5.zip",
+        "size": 5612218,
+        "updated_at": "2025-08-23T17:27:41+00:00",
+        "synced_at": "2025-08-23 17:27:42.084968"
+      }
     }
   },
   "source_codes": {
@@ -116,6 +152,16 @@
       "SourceCode_1.1.4.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-23 17:27:03.312631"
+      }
+    },
+    "1.1.5": {
+      "SourceCode_1.1.5.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:27:23.690826"
+      },
+      "SourceCode_1.1.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:27:23.691279"
       }
     }
   }
