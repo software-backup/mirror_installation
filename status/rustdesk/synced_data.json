@@ -31,6 +31,10 @@
     "110892238": {
       "tag_name": "1.2.0",
       "fully_synced_at": "2025-08-23 17:54:57.252128"
+    },
+    "111726429": {
+      "tag_name": "1.2.1",
+      "fully_synced_at": "2025-08-23 17:56:16.370844"
     }
   },
   "assets": {
@@ -403,6 +407,92 @@
         "updated_at": "2025-08-23T17:54:57+00:00",
         "synced_at": "2025-08-23 17:54:57.247680"
       }
+    },
+    "111726429": {
+      "rustdesk-1.2.1-0-x86_64.pkg.tar.zst_23913045": {
+        "name": "rustdesk-1.2.1-0-x86_64.pkg.tar.zst",
+        "size": 23913045,
+        "updated_at": "2025-08-23T17:55:04+00:00",
+        "synced_at": "2025-08-23 17:55:04.503228"
+      },
+      "rustdesk-1.2.1-0.aarch64-suse.rpm_21107494": {
+        "name": "rustdesk-1.2.1-0.aarch64-suse.rpm",
+        "size": 21107494,
+        "updated_at": "2025-08-23T17:55:08+00:00",
+        "synced_at": "2025-08-23 17:55:08.800775"
+      },
+      "rustdesk-1.2.1-0.aarch64.rpm_21107470": {
+        "name": "rustdesk-1.2.1-0.aarch64.rpm",
+        "size": 21107470,
+        "updated_at": "2025-08-23T17:55:13+00:00",
+        "synced_at": "2025-08-23 17:55:13.252036"
+      },
+      "rustdesk-1.2.1-0.x86_64-suse.rpm_23933503": {
+        "name": "rustdesk-1.2.1-0.x86_64-suse.rpm",
+        "size": 23933503,
+        "updated_at": "2025-08-23T17:55:17+00:00",
+        "synced_at": "2025-08-23 17:55:17.594169"
+      },
+      "rustdesk-1.2.1-0.x86_64.rpm_23933467": {
+        "name": "rustdesk-1.2.1-0.x86_64.rpm",
+        "size": 23933467,
+        "updated_at": "2025-08-23T17:55:22+00:00",
+        "synced_at": "2025-08-23 17:55:22.228537"
+      },
+      "rustdesk-1.2.1-aarch64.AppImage_46768512": {
+        "name": "rustdesk-1.2.1-aarch64.AppImage",
+        "size": 46768512,
+        "updated_at": "2025-08-23T17:55:27+00:00",
+        "synced_at": "2025-08-23 17:55:28.012164"
+      },
+      "rustdesk-1.2.1-aarch64.deb_14886888": {
+        "name": "rustdesk-1.2.1-aarch64.deb",
+        "size": 14886888,
+        "updated_at": "2025-08-23T17:55:32+00:00",
+        "synced_at": "2025-08-23 17:55:32.616905"
+      },
+      "rustdesk-1.2.1-armv7-sciter.deb_8610836": {
+        "name": "rustdesk-1.2.1-armv7-sciter.deb",
+        "size": 8610836,
+        "updated_at": "2025-08-23T17:55:36+00:00",
+        "synced_at": "2025-08-23 17:55:36.294378"
+      },
+      "rustdesk-1.2.1-x86-sciter.exe_8563376": {
+        "name": "rustdesk-1.2.1-x86-sciter.exe",
+        "size": 8563376,
+        "updated_at": "2025-08-23T17:55:39+00:00",
+        "synced_at": "2025-08-23 17:55:39.593922"
+      },
+      "rustdesk-1.2.1-x86_64.AppImage_59278528": {
+        "name": "rustdesk-1.2.1-x86_64.AppImage",
+        "size": 59278528,
+        "updated_at": "2025-08-23T17:56:00+00:00",
+        "synced_at": "2025-08-23 17:56:00.441361"
+      },
+      "rustdesk-1.2.1-x86_64.deb_17807720": {
+        "name": "rustdesk-1.2.1-x86_64.deb",
+        "size": 17807720,
+        "updated_at": "2025-08-23T17:56:04+00:00",
+        "synced_at": "2025-08-23 17:56:04.489308"
+      },
+      "rustdesk-1.2.1-x86_64.dmg_24754274": {
+        "name": "rustdesk-1.2.1-x86_64.dmg",
+        "size": 24754274,
+        "updated_at": "2025-08-23T17:56:08+00:00",
+        "synced_at": "2025-08-23 17:56:08.583872"
+      },
+      "rustdesk-1.2.1-x86_64.exe_20021424": {
+        "name": "rustdesk-1.2.1-x86_64.exe",
+        "size": 20021424,
+        "updated_at": "2025-08-23T17:56:12+00:00",
+        "synced_at": "2025-08-23 17:56:12.506669"
+      },
+      "rustdesk-1.2.1-x86_64.flatpak_17947624": {
+        "name": "rustdesk-1.2.1-x86_64.flatpak",
+        "size": 17947624,
+        "updated_at": "2025-08-23T17:56:16+00:00",
+        "synced_at": "2025-08-23 17:56:16.366329"
+      }
     }
   },
   "source_codes": {
@@ -484,6 +574,16 @@
       "SourceCode_1.2.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-08-23 17:53:56.617548"
+      }
+    },
+    "1.2.1": {
+      "SourceCode_1.2.1.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:54:59.511602"
+      },
+      "SourceCode_1.2.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 17:54:59.512524"
       }
     }
   }
