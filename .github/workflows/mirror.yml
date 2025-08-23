@@ -1,0 +1,47 @@
+# .github/workflows/mirror.yml
+name: software-installation同步releases
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *'
+  workflow_dispatch:
+
+# ===== 1. 把公共步骤定义成锚点 =====
+.x-mirror-steps: &mirror-steps      # 名字随便取，前面加 . 让它不会被当成 job
+  - name: 检出代码
+    uses: actions/checkout@v4
+
+  - name: 设置 Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: '3.9'
+
+  - name: 安装依赖
+    run: |
+      python -m pip install --upgrade pip
+      pip install requests PyGithub>=1.58
+
+  - name: 打印仓库信息
+    run: |
+      echo "源仓库 : $SOURCE_REPO"
+      echo "目标仓库: $TARGET_REPO"
+
+  - name: 检查更新并同步
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      SOURCE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    run: python mirror_github_releases.py
+
+# ===== 2. 不同 job 只需要改 env 里的变量 =====
+jobs:
+  mirror-foo-to-bar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    env:
+      SOURCE_REPO: "rustdesk/rustdesk"
+      TARGET_REPO: "software-installation/mirror_rustdesk"
+    steps: *mirror-steps
+
+  
