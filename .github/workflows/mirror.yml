@@ -39,8 +39,10 @@ jobs:
     env:
       SOURCE_REPO: "rustdesk/rustdesk"
       TARGET_REPO: "software-installation/mirror_rustdesk"
+      TARGET_REPO_NAME: rustdesk
     steps: *mirror-steps
 
 
   
+
 
