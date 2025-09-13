@@ -947,6 +947,10 @@
     "52306307": {
       "tag_name": "v2.5.7",
       "fully_synced_at": "2025-09-13 13:21:19.680090"
+    },
+    "52394846": {
+      "tag_name": "v2.5.8",
+      "fully_synced_at": "2025-09-13 13:22:41.579779"
     }
   },
   "assets": {
@@ -14329,6 +14333,50 @@
         "updated_at": "2025-09-13T13:21:19+00:00",
         "synced_at": "2025-09-13 13:21:19.657708"
       }
+    },
+    "52394846": {
+      "Joplin-2.5.8.AppImage_160154742": {
+        "name": "Joplin-2.5.8.AppImage",
+        "size": 160154742,
+        "updated_at": "2025-09-13T13:22:01+00:00",
+        "synced_at": "2025-09-13 13:22:02.010681"
+      },
+      "Joplin-2.5.8.AppImage.sha512_128": {
+        "name": "Joplin-2.5.8.AppImage.sha512",
+        "size": 128,
+        "updated_at": "2025-09-13T13:22:03+00:00",
+        "synced_at": "2025-09-13 13:22:03.496706"
+      },
+      "Joplin-2.5.8.dmg_158917315": {
+        "name": "Joplin-2.5.8.dmg",
+        "size": 158917315,
+        "updated_at": "2025-09-13T13:22:13+00:00",
+        "synced_at": "2025-09-13 13:22:13.822125"
+      },
+      "Joplin-Setup-2.5.8.exe_193117592": {
+        "name": "Joplin-Setup-2.5.8.exe",
+        "size": 193117592,
+        "updated_at": "2025-09-13T13:22:25+00:00",
+        "synced_at": "2025-09-13 13:22:26.022763"
+      },
+      "JoplinPortable.exe_192885216": {
+        "name": "JoplinPortable.exe",
+        "size": 192885216,
+        "updated_at": "2025-09-13T13:22:38+00:00",
+        "synced_at": "2025-09-13 13:22:38.551417"
+      },
+      "latest-linux.yml_364": {
+        "name": "latest-linux.yml",
+        "size": 364,
+        "updated_at": "2025-09-13T13:22:39+00:00",
+        "synced_at": "2025-09-13 13:22:40.038638"
+      },
+      "latest.yml_321": {
+        "name": "latest.yml",
+        "size": 321,
+        "updated_at": "2025-09-13T13:22:41+00:00",
+        "synced_at": "2025-09-13 13:22:41.557367"
+      }
     }
   },
   "source_codes": {
@@ -16700,6 +16748,16 @@
       "SourceCode_v2.5.7.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 13:20:27.172595"
+      }
+    },
+    "v2.5.8": {
+      "SourceCode_v2.5.8.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 13:21:39.116579"
+      },
+      "SourceCode_v2.5.8.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 13:21:49.121148"
       }
     }
   }
