@@ -251,6 +251,10 @@
     "12923973": {
       "tag_name": "v1.0.107",
       "fully_synced_at": "2025-09-13 10:00:53.887692"
+    },
+    "13029906": {
+      "tag_name": "v1.0.108",
+      "fully_synced_at": "2025-09-13 10:01:50.674191"
     }
   },
   "assets": {
@@ -3873,6 +3877,74 @@
         "updated_at": "2025-09-13T10:01:50+00:00",
         "synced_at": "2025-09-13 10:01:50.668097"
       }
+    },
+    "13134493": {
+      "Joplin-1.0.109-mac.zip_86840397": {
+        "name": "Joplin-1.0.109-mac.zip",
+        "size": 86840397,
+        "updated_at": "2025-09-13T10:02:10+00:00",
+        "synced_at": "2025-09-13 10:02:10.739745"
+      },
+      "Joplin-1.0.109-x86_64.AppImage_80257316": {
+        "name": "Joplin-1.0.109-x86_64.AppImage",
+        "size": 80257316,
+        "updated_at": "2025-09-13T10:02:17+00:00",
+        "synced_at": "2025-09-13 10:02:17.746259"
+      },
+      "Joplin-1.0.109.dmg_83364780": {
+        "name": "Joplin-1.0.109.dmg",
+        "size": 83364780,
+        "updated_at": "2025-09-13T10:02:24+00:00",
+        "synced_at": "2025-09-13 10:02:24.201623"
+      },
+      "Joplin-1.0.109.dmg.blockmap_87752": {
+        "name": "Joplin-1.0.109.dmg.blockmap",
+        "size": 87752,
+        "updated_at": "2025-09-13T10:02:25+00:00",
+        "synced_at": "2025-09-13 10:02:25.722573"
+      },
+      "Joplin-Setup-1.0.109.exe_96036728": {
+        "name": "Joplin-Setup-1.0.109.exe",
+        "size": 96036728,
+        "updated_at": "2025-09-13T10:02:32+00:00",
+        "synced_at": "2025-09-13 10:02:32.969176"
+      },
+      "Joplin-Setup-1.0.109.exe.blockmap_102022": {
+        "name": "Joplin-Setup-1.0.109.exe.blockmap",
+        "size": 102022,
+        "updated_at": "2025-09-13T10:02:34+00:00",
+        "synced_at": "2025-09-13 10:02:34.540909"
+      },
+      "JoplinPortable.exe_95826408": {
+        "name": "JoplinPortable.exe",
+        "size": 95826408,
+        "updated_at": "2025-09-13T10:02:41+00:00",
+        "synced_at": "2025-09-13 10:02:41.573675"
+      },
+      "latest-linux.yml_382": {
+        "name": "latest-linux.yml",
+        "size": 382,
+        "updated_at": "2025-09-13T10:02:42+00:00",
+        "synced_at": "2025-09-13 10:02:43.166896"
+      },
+      "latest-mac.json_170": {
+        "name": "latest-mac.json",
+        "size": 170,
+        "updated_at": "2025-09-13T10:02:47+00:00",
+        "synced_at": "2025-09-13 10:02:47.689373"
+      },
+      "latest-mac.yml_471": {
+        "name": "latest-mac.yml",
+        "size": 471,
+        "updated_at": "2025-09-13T10:02:49+00:00",
+        "synced_at": "2025-09-13 10:02:49.210535"
+      },
+      "latest.yml_417": {
+        "name": "latest.yml",
+        "size": 417,
+        "updated_at": "2025-09-13T10:02:50+00:00",
+        "synced_at": "2025-09-13 10:02:50.712835"
+      }
     }
   },
   "source_codes": {
@@ -4514,6 +4586,16 @@
       "SourceCode_v1.0.108.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 10:01:07.314043"
+      }
+    },
+    "v1.0.109": {
+      "SourceCode_v1.0.109.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 10:01:59.850874"
+      },
+      "SourceCode_v1.0.109.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 10:02:04.008944"
       }
     }
   }
