@@ -1,0 +1,73 @@
+{
+  "releases": {},
+  "assets": {
+    "8550046": {
+      "Joplin-0.10.19-mac.zip_67856459": {
+        "name": "Joplin-0.10.19-mac.zip",
+        "size": 67856459,
+        "updated_at": "2025-09-13T09:11:59+00:00",
+        "synced_at": "2025-09-13 09:11:59.775223"
+      },
+      "Joplin-0.10.19-x86_64.AppImage_76121887": {
+        "name": "Joplin-0.10.19-x86_64.AppImage",
+        "size": 76121887,
+        "updated_at": "2025-09-13T09:12:05+00:00",
+        "synced_at": "2025-09-13 09:12:06.084370"
+      },
+      "Joplin-0.10.19.dmg_70588283": {
+        "name": "Joplin-0.10.19.dmg",
+        "size": 70588283,
+        "updated_at": "2025-09-13T09:12:11+00:00",
+        "synced_at": "2025-09-13 09:12:12.109597"
+      },
+      "Joplin-Setup-0.10.19.exe_52705284": {
+        "name": "Joplin-Setup-0.10.19.exe",
+        "size": 52705284,
+        "updated_at": "2025-09-13T09:12:17+00:00",
+        "synced_at": "2025-09-13 09:12:17.374452"
+      },
+      "latest-linux.yml_383": {
+        "name": "latest-linux.yml",
+        "size": 383,
+        "updated_at": "2025-09-13T09:12:19+00:00",
+        "synced_at": "2025-09-13 09:12:19.193999"
+      },
+      "latest-mac.json_170": {
+        "name": "latest-mac.json",
+        "size": 170,
+        "updated_at": "2025-09-13T09:12:20+00:00",
+        "synced_at": "2025-09-13 09:12:20.738888"
+      },
+      "latest-mac.yml_471": {
+        "name": "latest-mac.yml",
+        "size": 471,
+        "updated_at": "2025-09-13T09:12:22+00:00",
+        "synced_at": "2025-09-13 09:12:22.234724"
+      },
+      "latest.yml_398": {
+        "name": "latest.yml",
+        "size": 398,
+        "updated_at": "2025-09-13T09:12:23+00:00",
+        "synced_at": "2025-09-13 09:12:23.727346"
+      },
+      "null.blockmap_127550": {
+        "name": "null.blockmap",
+        "size": 127550,
+        "updated_at": "2025-09-13T09:12:25+00:00",
+        "synced_at": "2025-09-13 09:12:25.179694"
+      }
+    }
+  },
+  "source_codes": {
+    "v0.10.19": {
+      "SourceCode_v0.10.19.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:11:50.489045"
+      },
+      "SourceCode_v0.10.19.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:11:53.826303"
+      }
+    }
+  }
+}
