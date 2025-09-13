@@ -87,6 +87,10 @@
     "9292014": {
       "tag_name": "android-v0.10.75",
       "fully_synced_at": "2025-09-13 09:28:33.741273"
+    },
+    "9296735": {
+      "tag_name": "android-v0.10.78",
+      "fully_synced_at": "2025-09-13 09:28:47.432577"
     }
   },
   "assets": {
@@ -1293,6 +1297,62 @@
         "updated_at": "2025-09-13T09:28:47+00:00",
         "synced_at": "2025-09-13 09:28:47.428515"
       }
+    },
+    "9336420": {
+      "Joplin-0.10.48-mac.zip_72841440": {
+        "name": "Joplin-0.10.48-mac.zip",
+        "size": 72841440,
+        "updated_at": "2025-09-13T09:29:04+00:00",
+        "synced_at": "2025-09-13 09:29:04.256681"
+      },
+      "Joplin-0.10.48-x86_64.AppImage_76601433": {
+        "name": "Joplin-0.10.48-x86_64.AppImage",
+        "size": 76601433,
+        "updated_at": "2025-09-13T09:29:09+00:00",
+        "synced_at": "2025-09-13 09:29:09.805874"
+      },
+      "Joplin-0.10.48.dmg_72926846": {
+        "name": "Joplin-0.10.48.dmg",
+        "size": 72926846,
+        "updated_at": "2025-09-13T09:29:15+00:00",
+        "synced_at": "2025-09-13 09:29:16.179505"
+      },
+      "Joplin-Setup-0.10.48.exe_53600312": {
+        "name": "Joplin-Setup-0.10.48.exe",
+        "size": 53600312,
+        "updated_at": "2025-09-13T09:29:20+00:00",
+        "synced_at": "2025-09-13 09:29:20.880410"
+      },
+      "latest-linux.yml_383": {
+        "name": "latest-linux.yml",
+        "size": 383,
+        "updated_at": "2025-09-13T09:29:22+00:00",
+        "synced_at": "2025-09-13 09:29:22.433374"
+      },
+      "latest-mac.json_170": {
+        "name": "latest-mac.json",
+        "size": 170,
+        "updated_at": "2025-09-13T09:29:23+00:00",
+        "synced_at": "2025-09-13 09:29:23.906716"
+      },
+      "latest-mac.yml_471": {
+        "name": "latest-mac.yml",
+        "size": 471,
+        "updated_at": "2025-09-13T09:29:25+00:00",
+        "synced_at": "2025-09-13 09:29:25.437003"
+      },
+      "latest.yml_398": {
+        "name": "latest.yml",
+        "size": 398,
+        "updated_at": "2025-09-13T09:29:26+00:00",
+        "synced_at": "2025-09-13 09:29:26.925510"
+      },
+      "null.blockmap_132995": {
+        "name": "null.blockmap",
+        "size": 132995,
+        "updated_at": "2025-09-13T09:29:28+00:00",
+        "synced_at": "2025-09-13 09:29:28.512922"
+      }
     }
   },
   "source_codes": {
@@ -1524,6 +1584,16 @@
       "SourceCode_android-v0.10.78.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 09:28:44.386491"
+      }
+    },
+    "v0.10.48": {
+      "SourceCode_v0.10.48.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:28:54.697554"
+      },
+      "SourceCode_v0.10.48.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:28:57.646181"
       }
     }
   }
