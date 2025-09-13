@@ -111,6 +111,10 @@
     "9472590": {
       "tag_name": "v0.10.52",
       "fully_synced_at": "2025-09-13 09:31:19.794505"
+    },
+    "9474446": {
+      "tag_name": "v0.10.54",
+      "fully_synced_at": "2025-09-13 09:32:00.476753"
     }
   },
   "assets": {
@@ -1557,6 +1561,14 @@
         "updated_at": "2025-09-13T09:32:00+00:00",
         "synced_at": "2025-09-13 09:32:00.473914"
       }
+    },
+    "9539400": {
+      "joplin-v0.10.83.apk_9238042": {
+        "name": "joplin-v0.10.83.apk",
+        "size": 9238042,
+        "updated_at": "2025-09-13T09:32:13+00:00",
+        "synced_at": "2025-09-13 09:32:13.743673"
+      }
     }
   },
   "source_codes": {
@@ -1848,6 +1860,16 @@
       "SourceCode_v0.10.54.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 09:31:30.161284"
+      }
+    },
+    "android-v0.10.83": {
+      "SourceCode_android-v0.10.83.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:32:07.999597"
+      },
+      "SourceCode_android-v0.10.83.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 09:32:11.054174"
       }
     }
   }
