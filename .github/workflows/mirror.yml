@@ -42,7 +42,17 @@ jobs:
       TARGET_REPO_NAME: rustdesk
     steps: *mirror-steps
 
-
+  laurent22_joplin:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    env:
+      SOURCE_REPO: "laurent22/joplin"
+      TARGET_REPO: "software-installation/mirror_joplin"
+      TARGET_REPO_NAME: joplin
+    steps: *mirror-steps
   
+
 
 
