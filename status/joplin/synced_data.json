@@ -1147,6 +1147,10 @@
     "103122775": {
       "tag_name": "v2.11.4",
       "fully_synced_at": "2025-09-13 14:34:28.533419"
+    },
+    "103302633": {
+      "tag_name": "v2.10.19",
+      "fully_synced_at": "2025-09-13 14:35:53.634007"
     }
   },
   "assets": {
@@ -16711,6 +16715,50 @@
         "updated_at": "2025-09-13T14:34:28+00:00",
         "synced_at": "2025-09-13 14:34:28.508368"
       }
+    },
+    "103302633": {
+      "Joplin-2.10.19.AppImage_168138870": {
+        "name": "Joplin-2.10.19.AppImage",
+        "size": 168138870,
+        "updated_at": "2025-09-13T14:35:10+00:00",
+        "synced_at": "2025-09-13 14:35:10.560904"
+      },
+      "Joplin-2.10.19.AppImage.sha512_128": {
+        "name": "Joplin-2.10.19.AppImage.sha512",
+        "size": 128,
+        "updated_at": "2025-09-13T14:35:12+00:00",
+        "synced_at": "2025-09-13 14:35:12.164778"
+      },
+      "Joplin-2.10.19.dmg_176014016": {
+        "name": "Joplin-2.10.19.dmg",
+        "size": 176014016,
+        "updated_at": "2025-09-13T14:35:24+00:00",
+        "synced_at": "2025-09-13 14:35:24.996725"
+      },
+      "Joplin-Setup-2.10.19.exe_204831416": {
+        "name": "Joplin-Setup-2.10.19.exe",
+        "size": 204831416,
+        "updated_at": "2025-09-13T14:35:36+00:00",
+        "synced_at": "2025-09-13 14:35:36.402283"
+      },
+      "JoplinPortable.exe_204602024": {
+        "name": "JoplinPortable.exe",
+        "size": 204602024,
+        "updated_at": "2025-09-13T14:35:50+00:00",
+        "synced_at": "2025-09-13 14:35:50.608618"
+      },
+      "latest-linux.yml_370": {
+        "name": "latest-linux.yml",
+        "size": 370,
+        "updated_at": "2025-09-13T14:35:51+00:00",
+        "synced_at": "2025-09-13 14:35:52.103927"
+      },
+      "latest.yml_327": {
+        "name": "latest.yml",
+        "size": 327,
+        "updated_at": "2025-09-13T14:35:53+00:00",
+        "synced_at": "2025-09-13 14:35:53.608970"
+      }
     }
   },
   "source_codes": {
@@ -19582,6 +19630,16 @@
       "SourceCode_v2.11.4.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 14:33:21.791046"
+      }
+    },
+    "v2.10.19": {
+      "SourceCode_v2.10.19.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 14:34:49.037366"
+      },
+      "SourceCode_v2.10.19.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 14:34:58.501791"
       }
     }
   }
