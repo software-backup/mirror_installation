@@ -1047,6 +1047,10 @@
     "67076213": {
       "tag_name": "v2.8.8",
       "fully_synced_at": "2025-09-13 13:55:32.350383"
+    },
+    "71680580": {
+      "tag_name": "v2.9.1",
+      "fully_synced_at": "2025-09-13 13:56:52.727107"
     }
   },
   "assets": {
@@ -15573,6 +15577,32 @@
         "updated_at": "2025-09-13T13:56:52+00:00",
         "synced_at": "2025-09-13 13:56:52.703887"
       }
+    },
+    "74317528": {
+      "Joplin-2.9.2.dmg_223018239": {
+        "name": "Joplin-2.9.2.dmg",
+        "size": 223018239,
+        "updated_at": "2025-09-13T13:57:36+00:00",
+        "synced_at": "2025-09-13 13:57:36.959626"
+      },
+      "Joplin-Setup-2.9.2.exe_247492752": {
+        "name": "Joplin-Setup-2.9.2.exe",
+        "size": 247492752,
+        "updated_at": "2025-09-13T13:57:52+00:00",
+        "synced_at": "2025-09-13 13:57:52.405532"
+      },
+      "JoplinPortable.exe_247266416": {
+        "name": "JoplinPortable.exe",
+        "size": 247266416,
+        "updated_at": "2025-09-13T13:58:09+00:00",
+        "synced_at": "2025-09-13 13:58:09.290333"
+      },
+      "latest.yml_321": {
+        "name": "latest.yml",
+        "size": 321,
+        "updated_at": "2025-09-13T13:58:10+00:00",
+        "synced_at": "2025-09-13 13:58:10.847369"
+      }
     }
   },
   "source_codes": {
@@ -18204,6 +18234,16 @@
       "SourceCode_v2.9.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-09-13 13:55:59.575908"
+      }
+    },
+    "v2.9.2": {
+      "SourceCode_v2.9.2.zip": {
+        "exists": true,
+        "synced_at": "2025-09-13 13:57:11.352689"
+      },
+      "SourceCode_v2.9.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-09-13 13:57:21.398593"
       }
     }
   }
