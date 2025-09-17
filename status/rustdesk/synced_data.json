@@ -126,7 +126,7 @@
     },
     "245337159": {
       "tag_name": "1.4.2",
-      "fully_synced_at": "2025-09-11 01:19:52.611694"
+      "fully_synced_at": "2025-09-17 01:18:51.864985"
     }
   },
   "assets": {
@@ -4948,8 +4948,8 @@
       "rustdesk-1.4.2-aarch64-signed.apk_24069364": {
         "name": "rustdesk-1.4.2-aarch64-signed.apk",
         "size": 24069364,
-        "updated_at": "2025-09-11T01:18:44+00:00",
-        "synced_at": "2025-09-11 01:18:45.011623"
+        "updated_at": "2025-09-17T01:17:23+00:00",
+        "synced_at": "2025-09-17 01:17:23.780759"
       },
       "rustdesk-1.4.2-aarch64.AppImage_74643976": {
         "name": "rustdesk-1.4.2-aarch64.AppImage",
@@ -4984,14 +4984,14 @@
       "rustdesk-1.4.2-armv7-signed.apk_23323900": {
         "name": "rustdesk-1.4.2-armv7-signed.apk",
         "size": 23323900,
-        "updated_at": "2025-09-11T01:19:07+00:00",
-        "synced_at": "2025-09-11 01:19:07.168385"
+        "updated_at": "2025-09-17T01:17:52+00:00",
+        "synced_at": "2025-09-17 01:17:52.576045"
       },
       "rustdesk-1.4.2-universal-signed.apk_64153400": {
         "name": "rustdesk-1.4.2-universal-signed.apk",
         "size": 64153400,
-        "updated_at": "2025-09-11T01:19:11+00:00",
-        "synced_at": "2025-09-11 01:19:11.839749"
+        "updated_at": "2025-09-17T01:17:59+00:00",
+        "synced_at": "2025-09-17 01:17:59.224422"
       },
       "rustdesk-1.4.2-unsigned.tar.gz_84836857": {
         "name": "rustdesk-1.4.2-unsigned.tar.gz",
@@ -5020,8 +5020,8 @@
       "rustdesk-1.4.2-x86_64-signed.apk_23774440": {
         "name": "rustdesk-1.4.2-x86_64-signed.apk",
         "size": 23774440,
-        "updated_at": "2025-09-11T01:19:30+00:00",
-        "synced_at": "2025-09-11 01:19:30.150108"
+        "updated_at": "2025-09-17T01:18:23+00:00",
+        "synced_at": "2025-09-17 01:18:23.561466"
       },
       "rustdesk-1.4.2-x86_64.AppImage_77502968": {
         "name": "rustdesk-1.4.2-x86_64.AppImage",
@@ -5044,8 +5044,8 @@
       "rustdesk-1.4.2-x86_64.exe_23348872": {
         "name": "rustdesk-1.4.2-x86_64.exe",
         "size": 23348872,
-        "updated_at": "2025-09-09T01:20:57+00:00",
-        "synced_at": "2025-09-09 01:20:57.710495"
+        "updated_at": "2025-09-17T01:18:43+00:00",
+        "synced_at": "2025-09-17 01:18:43.534994"
       },
       "rustdesk-1.4.2-x86_64.flatpak_21643928": {
         "name": "rustdesk-1.4.2-x86_64.flatpak",
@@ -5056,8 +5056,8 @@
       "rustdesk-1.4.2-x86_64.msi_23633920": {
         "name": "rustdesk-1.4.2-x86_64.msi",
         "size": 23633920,
-        "updated_at": "2025-09-09T01:21:03+00:00",
-        "synced_at": "2025-09-09 01:21:03.291560"
+        "updated_at": "2025-09-17T01:18:51+00:00",
+        "synced_at": "2025-09-17 01:18:51.853247"
       },
       "rustdesk-1.4.2-0-x86_64.pkg.tar.zst_23080945": {
         "name": "rustdesk-1.4.2-0-x86_64.pkg.tar.zst",
@@ -5140,8 +5140,8 @@
       "rustdesk-1.4.2-x86_64.AppImage_77498872": {
         "name": "rustdesk-1.4.2-x86_64.AppImage",
         "size": 77498872,
-        "updated_at": "2025-09-11T01:19:35+00:00",
-        "synced_at": "2025-09-11 01:19:35.654667"
+        "updated_at": "2025-09-17T01:18:30+00:00",
+        "synced_at": "2025-09-17 01:18:30.627099"
       },
       "rustdesk-1.4.2-x86_64.deb_21361672": {
         "name": "rustdesk-1.4.2-x86_64.deb",
@@ -5172,6 +5172,108 @@
         "size": 23642112,
         "updated_at": "2025-09-11T01:19:52+00:00",
         "synced_at": "2025-09-11 01:19:52.600426"
+      },
+      "rustdesk-1.4.2-0-x86_64.pkg.tar.zst_23080113": {
+        "name": "rustdesk-1.4.2-0-x86_64.pkg.tar.zst",
+        "size": 23080113,
+        "updated_at": "2025-09-17T01:16:58+00:00",
+        "synced_at": "2025-09-17 01:16:58.568237"
+      },
+      "rustdesk-1.4.2-0.aarch64-suse.rpm_27730693": {
+        "name": "rustdesk-1.4.2-0.aarch64-suse.rpm",
+        "size": 27730693,
+        "updated_at": "2025-09-17T01:17:03+00:00",
+        "synced_at": "2025-09-17 01:17:03.949748"
+      },
+      "rustdesk-1.4.2-0.aarch64.rpm_27730650": {
+        "name": "rustdesk-1.4.2-0.aarch64.rpm",
+        "size": 27730650,
+        "updated_at": "2025-09-17T01:17:09+00:00",
+        "synced_at": "2025-09-17 01:17:09.804139"
+      },
+      "rustdesk-1.4.2-0.x86_64-suse.rpm_28665420": {
+        "name": "rustdesk-1.4.2-0.x86_64-suse.rpm",
+        "size": 28665420,
+        "updated_at": "2025-09-17T01:17:14+00:00",
+        "synced_at": "2025-09-17 01:17:14.671901"
+      },
+      "rustdesk-1.4.2-0.x86_64.rpm_28665371": {
+        "name": "rustdesk-1.4.2-0.x86_64.rpm",
+        "size": 28665371,
+        "updated_at": "2025-09-17T01:17:19+00:00",
+        "synced_at": "2025-09-17 01:17:19.685209"
+      },
+      "rustdesk-1.4.2-aarch64.AppImage_79731208": {
+        "name": "rustdesk-1.4.2-aarch64.AppImage",
+        "size": 79731208,
+        "updated_at": "2025-09-17T01:17:31+00:00",
+        "synced_at": "2025-09-17 01:17:31.525087"
+      },
+      "rustdesk-1.4.2-aarch64.deb_19383272": {
+        "name": "rustdesk-1.4.2-aarch64.deb",
+        "size": 19383272,
+        "updated_at": "2025-09-17T01:17:35+00:00",
+        "synced_at": "2025-09-17 01:17:35.469491"
+      },
+      "rustdesk-1.4.2-aarch64.dmg_23977147": {
+        "name": "rustdesk-1.4.2-aarch64.dmg",
+        "size": 23977147,
+        "updated_at": "2025-09-17T01:17:39+00:00",
+        "synced_at": "2025-09-17 01:17:40.091593"
+      },
+      "rustdesk-1.4.2-aarch64.flatpak_19756352": {
+        "name": "rustdesk-1.4.2-aarch64.flatpak",
+        "size": 19756352,
+        "updated_at": "2025-09-17T01:17:44+00:00",
+        "synced_at": "2025-09-17 01:17:44.590085"
+      },
+      "rustdesk-1.4.2-armv7-sciter.deb_10901260": {
+        "name": "rustdesk-1.4.2-armv7-sciter.deb",
+        "size": 10901260,
+        "updated_at": "2025-09-17T01:17:48+00:00",
+        "synced_at": "2025-09-17 01:17:48.251679"
+      },
+      "rustdesk-1.4.2-unsigned.tar.gz_84834226": {
+        "name": "rustdesk-1.4.2-unsigned.tar.gz",
+        "size": 84834226,
+        "updated_at": "2025-09-17T01:18:07+00:00",
+        "synced_at": "2025-09-17 01:18:07.695226"
+      },
+      "rustdesk-1.4.2-x86-sciter.exe_11268232": {
+        "name": "rustdesk-1.4.2-x86-sciter.exe",
+        "size": 11268232,
+        "updated_at": "2025-09-17T01:18:11+00:00",
+        "synced_at": "2025-09-17 01:18:11.520361"
+      },
+      "rustdesk-1.4.2-x86_64-sciter.deb_14688364": {
+        "name": "rustdesk-1.4.2-x86_64-sciter.deb",
+        "size": 14688364,
+        "updated_at": "2025-09-17T01:18:15+00:00",
+        "synced_at": "2025-09-17 01:18:15.280910"
+      },
+      "rustdesk-1.4.2-x86_64-sciter.flatpak_14949048": {
+        "name": "rustdesk-1.4.2-x86_64-sciter.flatpak",
+        "size": 14949048,
+        "updated_at": "2025-09-17T01:18:18+00:00",
+        "synced_at": "2025-09-17 01:18:19.004303"
+      },
+      "rustdesk-1.4.2-x86_64.deb_21353928": {
+        "name": "rustdesk-1.4.2-x86_64.deb",
+        "size": 21353928,
+        "updated_at": "2025-09-17T01:18:34+00:00",
+        "synced_at": "2025-09-17 01:18:35.013055"
+      },
+      "rustdesk-1.4.2-x86_64.dmg_30342306": {
+        "name": "rustdesk-1.4.2-x86_64.dmg",
+        "size": 30342306,
+        "updated_at": "2025-09-17T01:18:39+00:00",
+        "synced_at": "2025-09-17 01:18:39.662428"
+      },
+      "rustdesk-1.4.2-x86_64.flatpak_21639176": {
+        "name": "rustdesk-1.4.2-x86_64.flatpak",
+        "size": 21639176,
+        "updated_at": "2025-09-17T01:18:47+00:00",
+        "synced_at": "2025-09-17 01:18:47.730884"
       }
     }
   },
