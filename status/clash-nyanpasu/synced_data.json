@@ -3,6 +3,10 @@
     "129492351": {
       "tag_name": "v1.4.0",
       "fully_synced_at": "2025-10-11 12:39:00.761956"
+    },
+    "129656435": {
+      "tag_name": "updater",
+      "fully_synced_at": "2025-10-11 12:39:21.006764"
     }
   },
   "assets": {
@@ -133,6 +137,44 @@
         "updated_at": "2025-10-11T12:39:00+00:00",
         "synced_at": "2025-10-11 12:39:00.761163"
       }
+    },
+    "129656435": {
+      "update-nightly-fixed-webview-proxy.json_6486": {
+        "name": "update-nightly-fixed-webview-proxy.json",
+        "size": 6486,
+        "updated_at": "2025-10-11T12:39:06+00:00",
+        "synced_at": "2025-10-11 12:39:06.829955"
+      },
+      "update-nightly-fixed-webview.json_6356": {
+        "name": "update-nightly-fixed-webview.json",
+        "size": 6356,
+        "updated_at": "2025-10-11T12:39:09+00:00",
+        "synced_at": "2025-10-11 12:39:09.646199"
+      },
+      "update-nightly-proxy.json_6430": {
+        "name": "update-nightly-proxy.json",
+        "size": 6430,
+        "updated_at": "2025-10-11T12:39:12+00:00",
+        "synced_at": "2025-10-11 12:39:12.497736"
+      },
+      "update-nightly.json_6300": {
+        "name": "update-nightly.json",
+        "size": 6300,
+        "updated_at": "2025-10-11T12:39:15+00:00",
+        "synced_at": "2025-10-11 12:39:15.309686"
+      },
+      "update-proxy.json_7734": {
+        "name": "update-proxy.json",
+        "size": 7734,
+        "updated_at": "2025-10-11T12:39:18+00:00",
+        "synced_at": "2025-10-11 12:39:18.175663"
+      },
+      "update.json_7582": {
+        "name": "update.json",
+        "size": 7582,
+        "updated_at": "2025-10-11T12:39:20+00:00",
+        "synced_at": "2025-10-11 12:39:21.006105"
+      }
     }
   },
   "source_codes": {
@@ -144,6 +186,16 @@
       "SourceCode_v1.4.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 12:37:30.790574"
+      }
+    },
+    "updater": {
+      "SourceCode_updater.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:39:03.697007"
+      },
+      "SourceCode_updater.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:39:03.697501"
       }
     }
   }
