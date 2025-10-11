@@ -183,6 +183,10 @@
     "225448449": {
       "tag_name": "v2.3.0",
       "fully_synced_at": "2025-10-11 15:22:19.589809"
+    },
+    "241746686": {
+      "tag_name": "updater-alpha",
+      "fully_synced_at": "2025-10-11 15:22:27.661986"
     }
   },
   "assets": {
@@ -7524,6 +7528,20 @@
         "updated_at": "2025-10-11T15:22:19+00:00",
         "synced_at": "2025-10-11 15:22:19.578662"
       }
+    },
+    "241746686": {
+      "update-proxy.json_11942": {
+        "name": "update-proxy.json",
+        "size": 11942,
+        "updated_at": "2025-10-11T15:22:24+00:00",
+        "synced_at": "2025-10-11 15:22:24.945750"
+      },
+      "update.json_11942": {
+        "name": "update.json",
+        "size": 11942,
+        "updated_at": "2025-10-11T15:22:27+00:00",
+        "synced_at": "2025-10-11 15:22:27.651199"
+      }
     }
   },
   "source_codes": {
@@ -7985,6 +8003,16 @@
       "SourceCode_v2.3.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 15:20:53.454075"
+      }
+    },
+    "updater-alpha": {
+      "SourceCode_updater-alpha.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 15:22:22.318048"
+      },
+      "SourceCode_updater-alpha.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 15:22:22.328642"
       }
     }
   }
