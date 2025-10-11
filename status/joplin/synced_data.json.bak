@@ -1239,6 +1239,10 @@
     "129735338": {
       "tag_name": "v2.13.6",
       "fully_synced_at": "2025-10-11 14:17:30.189717"
+    },
+    "132407949": {
+      "tag_name": "v2.13.8",
+      "fully_synced_at": "2025-10-11 14:19:01.182130"
     }
   },
   "assets": {
@@ -18207,6 +18211,56 @@
         "updated_at": "2025-10-11T14:19:00+00:00",
         "synced_at": "2025-10-11 14:19:01.157079"
       }
+    },
+    "133153558": {
+      "Joplin-2.13.9-arm64.DMG_199069486": {
+        "name": "Joplin-2.13.9-arm64.DMG",
+        "size": 199069486,
+        "updated_at": "2025-10-11T14:19:20+00:00",
+        "synced_at": "2025-10-11 14:19:20.742704"
+      },
+      "Joplin-2.13.9.AppImage_210948754": {
+        "name": "Joplin-2.13.9.AppImage",
+        "size": 210948754,
+        "updated_at": "2025-10-11T14:19:32+00:00",
+        "synced_at": "2025-10-11 14:19:33.109786"
+      },
+      "Joplin-2.13.9.AppImage.sha512_128": {
+        "name": "Joplin-2.13.9.AppImage.sha512",
+        "size": 128,
+        "updated_at": "2025-10-11T14:19:35+00:00",
+        "synced_at": "2025-10-11 14:19:35.868484"
+      },
+      "Joplin-2.13.9.dmg_204490705": {
+        "name": "Joplin-2.13.9.dmg",
+        "size": 204490705,
+        "updated_at": "2025-10-11T14:19:47+00:00",
+        "synced_at": "2025-10-11 14:19:47.780583"
+      },
+      "Joplin-Setup-2.13.9.exe_245109368": {
+        "name": "Joplin-Setup-2.13.9.exe",
+        "size": 245109368,
+        "updated_at": "2025-10-11T14:20:05+00:00",
+        "synced_at": "2025-10-11 14:20:05.911581"
+      },
+      "JoplinPortable.exe_244878568": {
+        "name": "JoplinPortable.exe",
+        "size": 244878568,
+        "updated_at": "2025-10-11T14:20:23+00:00",
+        "synced_at": "2025-10-11 14:20:23.508799"
+      },
+      "latest-linux.yml_367": {
+        "name": "latest-linux.yml",
+        "size": 367,
+        "updated_at": "2025-10-11T14:20:26+00:00",
+        "synced_at": "2025-10-11 14:20:26.295923"
+      },
+      "latest.yml_324": {
+        "name": "latest.yml",
+        "size": 324,
+        "updated_at": "2025-10-11T14:20:29+00:00",
+        "synced_at": "2025-10-11 14:20:29.204360"
+      }
     }
   },
   "source_codes": {
@@ -21318,6 +21372,16 @@
       "SourceCode_v2.13.8.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 14:17:33.784066"
+      }
+    },
+    "v2.13.9": {
+      "SourceCode_v2.13.9.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:19:04.829174"
+      },
+      "SourceCode_v2.13.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:19:04.854387"
       }
     }
   }
