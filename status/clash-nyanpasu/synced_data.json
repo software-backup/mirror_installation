@@ -31,6 +31,10 @@
     "144536480": {
       "tag_name": "v1.5.0",
       "fully_synced_at": "2025-10-11 13:19:18.075200"
+    },
+    "150235698": {
+      "tag_name": "v1.5.1",
+      "fully_synced_at": "2025-10-11 13:20:42.013915"
     }
   },
   "assets": {
@@ -1021,6 +1025,98 @@
         "updated_at": "2025-10-11T13:19:17+00:00",
         "synced_at": "2025-10-11 13:19:18.073029"
       }
+    },
+    "150235698": {
+      "clash-nyanpasu_1.5.1_amd64.AppImage_134448320": {
+        "name": "clash-nyanpasu_1.5.1_amd64.AppImage",
+        "size": 134448320,
+        "updated_at": "2025-10-11T13:19:30+00:00",
+        "synced_at": "2025-10-11 13:19:30.699542"
+      },
+      "clash-nyanpasu_1.5.1_amd64.AppImage.tar.gz_132968106": {
+        "name": "clash-nyanpasu_1.5.1_amd64.AppImage.tar.gz",
+        "size": 132968106,
+        "updated_at": "2025-10-11T13:19:42+00:00",
+        "synced_at": "2025-10-11 13:19:42.235159"
+      },
+      "clash-nyanpasu_1.5.1_amd64.AppImage.tar.gz.sig_436": {
+        "name": "clash-nyanpasu_1.5.1_amd64.AppImage.tar.gz.sig",
+        "size": 436,
+        "updated_at": "2025-10-11T13:19:44+00:00",
+        "synced_at": "2025-10-11 13:19:45.039915"
+      },
+      "clash-nyanpasu_1.5.1_amd64.deb_55776334": {
+        "name": "clash-nyanpasu_1.5.1_amd64.deb",
+        "size": 55776334,
+        "updated_at": "2025-10-11T13:19:50+00:00",
+        "synced_at": "2025-10-11 13:19:50.847774"
+      },
+      "Clash.Nyanpasu.aarch64.app.tar.gz_50170398": {
+        "name": "Clash.Nyanpasu.aarch64.app.tar.gz",
+        "size": 50170398,
+        "updated_at": "2025-10-11T13:19:56+00:00",
+        "synced_at": "2025-10-11 13:19:56.411341"
+      },
+      "Clash.Nyanpasu.aarch64.app.tar.gz.sig_416": {
+        "name": "Clash.Nyanpasu.aarch64.app.tar.gz.sig",
+        "size": 416,
+        "updated_at": "2025-10-11T13:19:59+00:00",
+        "synced_at": "2025-10-11 13:19:59.190304"
+      },
+      "Clash.Nyanpasu_1.5.1_aarch64.dmg_50010714": {
+        "name": "Clash.Nyanpasu_1.5.1_aarch64.dmg",
+        "size": 50010714,
+        "updated_at": "2025-10-11T13:20:04+00:00",
+        "synced_at": "2025-10-11 13:20:04.617410"
+      },
+      "Clash.Nyanpasu_1.5.1_x64-setup.exe_41706613": {
+        "name": "Clash.Nyanpasu_1.5.1_x64-setup.exe",
+        "size": 41706613,
+        "updated_at": "2025-10-11T13:20:09+00:00",
+        "synced_at": "2025-10-11 13:20:09.628767"
+      },
+      "Clash.Nyanpasu_1.5.1_x64-setup.nsis.zip_40202955": {
+        "name": "Clash.Nyanpasu_1.5.1_x64-setup.nsis.zip",
+        "size": 40202955,
+        "updated_at": "2025-10-11T13:20:14+00:00",
+        "synced_at": "2025-10-11 13:20:15.007489"
+      },
+      "Clash.Nyanpasu_1.5.1_x64-setup.nsis.zip.sig_432": {
+        "name": "Clash.Nyanpasu_1.5.1_x64-setup.nsis.zip.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T13:20:18+00:00",
+        "synced_at": "2025-10-11 13:20:18.243414"
+      },
+      "Clash.Nyanpasu_1.5.1_x64.dmg_51948319": {
+        "name": "Clash.Nyanpasu_1.5.1_x64.dmg",
+        "size": 51948319,
+        "updated_at": "2025-10-11T13:20:24+00:00",
+        "synced_at": "2025-10-11 13:20:24.209355"
+      },
+      "Clash.Nyanpasu_1.5.1_x64_portable.zip_54968683": {
+        "name": "Clash.Nyanpasu_1.5.1_x64_portable.zip",
+        "size": 54968683,
+        "updated_at": "2025-10-11T13:20:30+00:00",
+        "synced_at": "2025-10-11 13:20:30.515889"
+      },
+      "Clash.Nyanpasu_x64.app.tar.gz_52213897": {
+        "name": "Clash.Nyanpasu_x64.app.tar.gz",
+        "size": 52213897,
+        "updated_at": "2025-10-11T13:20:36+00:00",
+        "synced_at": "2025-10-11 13:20:36.435724"
+      },
+      "Clash.Nyanpasu_x64.app.tar.gz.sig_416": {
+        "name": "Clash.Nyanpasu_x64.app.tar.gz.sig",
+        "size": 416,
+        "updated_at": "2025-10-11T13:20:39+00:00",
+        "synced_at": "2025-10-11 13:20:39.195216"
+      },
+      "latest.json_1916": {
+        "name": "latest.json",
+        "size": 1916,
+        "updated_at": "2025-10-11T13:20:41+00:00",
+        "synced_at": "2025-10-11 13:20:42.011691"
+      }
     }
   },
   "source_codes": {
@@ -1102,6 +1198,16 @@
       "SourceCode_v1.5.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 13:17:57.773806"
+      }
+    },
+    "v1.5.1": {
+      "SourceCode_v1.5.1.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 13:19:20.667021"
+      },
+      "SourceCode_v1.5.1.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 13:19:20.668770"
       }
     }
   }
