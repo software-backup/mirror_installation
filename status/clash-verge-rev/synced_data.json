@@ -111,6 +111,10 @@
     "157521920": {
       "tag_name": "v1.6.4",
       "fully_synced_at": "2025-10-11 14:23:23.803507"
+    },
+    "158723614": {
+      "tag_name": "v1.6.5",
+      "fully_synced_at": "2025-10-11 14:26:58.835372"
     }
   },
   "assets": {
@@ -4195,6 +4199,260 @@
         "updated_at": "2025-10-11T14:23:23+00:00",
         "synced_at": "2025-10-11 14:23:23.796669"
       }
+    },
+    "158723614": {
+      "clash-verge-1.6.5-1.aarch64.rpm_43502126": {
+        "name": "clash-verge-1.6.5-1.aarch64.rpm",
+        "size": 43502126,
+        "updated_at": "2025-10-11T14:23:30+00:00",
+        "synced_at": "2025-10-11 14:23:31.018963"
+      },
+      "clash-verge-1.6.5-1.armhfp.rpm_43376927": {
+        "name": "clash-verge-1.6.5-1.armhfp.rpm",
+        "size": 43376927,
+        "updated_at": "2025-10-11T14:23:35+00:00",
+        "synced_at": "2025-10-11 14:23:35.240239"
+      },
+      "clash-verge-1.6.5-1.i386.rpm_43686032": {
+        "name": "clash-verge-1.6.5-1.i386.rpm",
+        "size": 43686032,
+        "updated_at": "2025-10-11T14:23:39+00:00",
+        "synced_at": "2025-10-11 14:23:39.491844"
+      },
+      "clash-verge-1.6.5-1.x86_64.rpm_45039646": {
+        "name": "clash-verge-1.6.5-1.x86_64.rpm",
+        "size": 45039646,
+        "updated_at": "2025-10-11T14:23:43+00:00",
+        "synced_at": "2025-10-11 14:23:43.530812"
+      },
+      "clash-verge_1.6.5_amd64.AppImage_110871744": {
+        "name": "clash-verge_1.6.5_amd64.AppImage",
+        "size": 110871744,
+        "updated_at": "2025-10-11T14:23:49+00:00",
+        "synced_at": "2025-10-11 14:23:49.941160"
+      },
+      "clash-verge_1.6.5_amd64.AppImage.tar.gz_109494544": {
+        "name": "clash-verge_1.6.5_amd64.AppImage.tar.gz",
+        "size": 109494544,
+        "updated_at": "2025-10-11T14:23:55+00:00",
+        "synced_at": "2025-10-11 14:23:55.241597"
+      },
+      "clash-verge_1.6.5_amd64.AppImage.tar.gz.sig_432": {
+        "name": "clash-verge_1.6.5_amd64.AppImage.tar.gz.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T14:23:57+00:00",
+        "synced_at": "2025-10-11 14:23:57.891680"
+      },
+      "clash-verge_1.6.5_amd64.deb_45035636": {
+        "name": "clash-verge_1.6.5_amd64.deb",
+        "size": 45035636,
+        "updated_at": "2025-10-11T14:24:01+00:00",
+        "synced_at": "2025-10-11 14:24:01.987934"
+      },
+      "clash-verge_1.6.5_arm64.deb_43501880": {
+        "name": "clash-verge_1.6.5_arm64.deb",
+        "size": 43501880,
+        "updated_at": "2025-10-11T14:24:05+00:00",
+        "synced_at": "2025-10-11 14:24:05.985660"
+      },
+      "clash-verge_1.6.5_armhf.deb_43380982": {
+        "name": "clash-verge_1.6.5_armhf.deb",
+        "size": 43380982,
+        "updated_at": "2025-10-11T14:24:10+00:00",
+        "synced_at": "2025-10-11 14:24:10.250450"
+      },
+      "clash-verge_1.6.5_i386.deb_43685464": {
+        "name": "clash-verge_1.6.5_i386.deb",
+        "size": 43685464,
+        "updated_at": "2025-10-11T14:24:14+00:00",
+        "synced_at": "2025-10-11 14:24:14.493336"
+      },
+      "Clash.Verge_1.6.5_aarch64.dmg_37528157": {
+        "name": "Clash.Verge_1.6.5_aarch64.dmg",
+        "size": 37528157,
+        "updated_at": "2025-10-11T14:24:18+00:00",
+        "synced_at": "2025-10-11 14:24:18.445401"
+      },
+      "Clash.Verge_1.6.5_arm64-setup.exe_27190250": {
+        "name": "Clash.Verge_1.6.5_arm64-setup.exe",
+        "size": 27190250,
+        "updated_at": "2025-10-11T14:24:22+00:00",
+        "synced_at": "2025-10-11 14:24:22.189814"
+      },
+      "Clash.Verge_1.6.5_arm64-setup.nsis.zip_25681830": {
+        "name": "Clash.Verge_1.6.5_arm64-setup.nsis.zip",
+        "size": 25681830,
+        "updated_at": "2025-10-11T14:24:25+00:00",
+        "synced_at": "2025-10-11 14:24:25.694105"
+      },
+      "Clash.Verge_1.6.5_arm64-setup.nsis.zip.sig_432": {
+        "name": "Clash.Verge_1.6.5_arm64-setup.nsis.zip.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T14:24:28+00:00",
+        "synced_at": "2025-10-11 14:24:28.270583"
+      },
+      "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.exe_166786075": {
+        "name": "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.exe",
+        "size": 166786075,
+        "updated_at": "2025-10-11T14:24:37+00:00",
+        "synced_at": "2025-10-11 14:24:37.419361"
+      },
+      "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.nsis.zip_166786239": {
+        "name": "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.nsis.zip",
+        "size": 166786239,
+        "updated_at": "2025-10-11T14:24:45+00:00",
+        "synced_at": "2025-10-11 14:24:45.917517"
+      },
+      "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.nsis.zip.sig_432": {
+        "name": "Clash.Verge_1.6.5_arm64_fixed_webview2-setup.nsis.zip.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T14:24:48+00:00",
+        "synced_at": "2025-10-11 14:24:48.564159"
+      },
+      "Clash.Verge_1.6.5_arm64_fixed_webview2_portable.zip_241629959": {
+        "name": "Clash.Verge_1.6.5_arm64_fixed_webview2_portable.zip",
+        "size": 241629959,
+        "updated_at": "2025-10-11T14:25:00+00:00",
+        "synced_at": "2025-10-11 14:25:00.279178"
+      },
+      "Clash.Verge_1.6.5_arm64_portable.zip_35734394": {
+        "name": "Clash.Verge_1.6.5_arm64_portable.zip",
+        "size": 35734394,
+        "updated_at": "2025-10-11T14:25:04+00:00",
+        "synced_at": "2025-10-11 14:25:04.227824"
+      },
+      "Clash.Verge_1.6.5_x64-setup.exe_29825850": {
+        "name": "Clash.Verge_1.6.5_x64-setup.exe",
+        "size": 29825850,
+        "updated_at": "2025-10-11T14:25:07+00:00",
+        "synced_at": "2025-10-11 14:25:07.953334"
+      },
+      "Clash.Verge_1.6.5_x64-setup.nsis.zip_28314540": {
+        "name": "Clash.Verge_1.6.5_x64-setup.nsis.zip",
+        "size": 28314540,
+        "updated_at": "2025-10-11T14:25:11+00:00",
+        "synced_at": "2025-10-11 14:25:11.546225"
+      },
+      "Clash.Verge_1.6.5_x64-setup.nsis.zip.sig_428": {
+        "name": "Clash.Verge_1.6.5_x64-setup.nsis.zip.sig",
+        "size": 428,
+        "updated_at": "2025-10-11T14:25:14+00:00",
+        "synced_at": "2025-10-11 14:25:14.222301"
+      },
+      "Clash.Verge_1.6.5_x64.dmg_39592442": {
+        "name": "Clash.Verge_1.6.5_x64.dmg",
+        "size": 39592442,
+        "updated_at": "2025-10-11T14:25:17+00:00",
+        "synced_at": "2025-10-11 14:25:17.941025"
+      },
+      "Clash.Verge_1.6.5_x64_fixed_webview2-setup.exe_182606474": {
+        "name": "Clash.Verge_1.6.5_x64_fixed_webview2-setup.exe",
+        "size": 182606474,
+        "updated_at": "2025-10-11T14:25:27+00:00",
+        "synced_at": "2025-10-11 14:25:28.058145"
+      },
+      "Clash.Verge_1.6.5_x64_fixed_webview2-setup.nsis.zip_182606634": {
+        "name": "Clash.Verge_1.6.5_x64_fixed_webview2-setup.nsis.zip",
+        "size": 182606634,
+        "updated_at": "2025-10-11T14:25:37+00:00",
+        "synced_at": "2025-10-11 14:25:38.056125"
+      },
+      "Clash.Verge_1.6.5_x64_fixed_webview2-setup.nsis.zip.sig_428": {
+        "name": "Clash.Verge_1.6.5_x64_fixed_webview2-setup.nsis.zip.sig",
+        "size": 428,
+        "updated_at": "2025-10-11T14:25:40+00:00",
+        "synced_at": "2025-10-11 14:25:40.726925"
+      },
+      "Clash.Verge_1.6.5_x64_fixed_webview2_portable.zip_250261881": {
+        "name": "Clash.Verge_1.6.5_x64_fixed_webview2_portable.zip",
+        "size": 250261881,
+        "updated_at": "2025-10-11T14:25:52+00:00",
+        "synced_at": "2025-10-11 14:25:52.867603"
+      },
+      "Clash.Verge_1.6.5_x64_portable.zip_37961851": {
+        "name": "Clash.Verge_1.6.5_x64_portable.zip",
+        "size": 37961851,
+        "updated_at": "2025-10-11T14:25:56+00:00",
+        "synced_at": "2025-10-11 14:25:57.073361"
+      },
+      "Clash.Verge_1.6.5_x86-setup.exe_28802921": {
+        "name": "Clash.Verge_1.6.5_x86-setup.exe",
+        "size": 28802921,
+        "updated_at": "2025-10-11T14:26:00+00:00",
+        "synced_at": "2025-10-11 14:26:00.902052"
+      },
+      "Clash.Verge_1.6.5_x86-setup.nsis.zip_27286573": {
+        "name": "Clash.Verge_1.6.5_x86-setup.nsis.zip",
+        "size": 27286573,
+        "updated_at": "2025-10-11T14:26:04+00:00",
+        "synced_at": "2025-10-11 14:26:04.850995"
+      },
+      "Clash.Verge_1.6.5_x86-setup.nsis.zip.sig_428": {
+        "name": "Clash.Verge_1.6.5_x86-setup.nsis.zip.sig",
+        "size": 428,
+        "updated_at": "2025-10-11T14:26:07+00:00",
+        "synced_at": "2025-10-11 14:26:07.565051"
+      },
+      "Clash.Verge_1.6.5_x86_fixed_webview2-setup.exe_168107819": {
+        "name": "Clash.Verge_1.6.5_x86_fixed_webview2-setup.exe",
+        "size": 168107819,
+        "updated_at": "2025-10-11T14:26:15+00:00",
+        "synced_at": "2025-10-11 14:26:15.933591"
+      },
+      "Clash.Verge_1.6.5_x86_fixed_webview2-setup.nsis.zip_168107979": {
+        "name": "Clash.Verge_1.6.5_x86_fixed_webview2-setup.nsis.zip",
+        "size": 168107979,
+        "updated_at": "2025-10-11T14:26:24+00:00",
+        "synced_at": "2025-10-11 14:26:25.080365"
+      },
+      "Clash.Verge_1.6.5_x86_fixed_webview2-setup.nsis.zip.sig_428": {
+        "name": "Clash.Verge_1.6.5_x86_fixed_webview2-setup.nsis.zip.sig",
+        "size": 428,
+        "updated_at": "2025-10-11T14:26:27+00:00",
+        "synced_at": "2025-10-11 14:26:27.721133"
+      },
+      "Clash.Verge_1.6.5_x86_fixed_webview2_portable.zip_227622962": {
+        "name": "Clash.Verge_1.6.5_x86_fixed_webview2_portable.zip",
+        "size": 227622962,
+        "updated_at": "2025-10-11T14:26:37+00:00",
+        "synced_at": "2025-10-11 14:26:38.130683"
+      },
+      "Clash.Verge_1.6.5_x86_portable.zip_36792302": {
+        "name": "Clash.Verge_1.6.5_x86_portable.zip",
+        "size": 36792302,
+        "updated_at": "2025-10-11T14:26:42+00:00",
+        "synced_at": "2025-10-11 14:26:42.450694"
+      },
+      "Clash.Verge_aarch64.app.tar.gz_37278835": {
+        "name": "Clash.Verge_aarch64.app.tar.gz",
+        "size": 37278835,
+        "updated_at": "2025-10-11T14:26:46+00:00",
+        "synced_at": "2025-10-11 14:26:46.756358"
+      },
+      "Clash.Verge_aarch64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_aarch64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-10-11T14:26:49+00:00",
+        "synced_at": "2025-10-11 14:26:49.326832"
+      },
+      "Clash.Verge_x64.app.tar.gz_39410297": {
+        "name": "Clash.Verge_x64.app.tar.gz",
+        "size": 39410297,
+        "updated_at": "2025-10-11T14:26:53+00:00",
+        "synced_at": "2025-10-11 14:26:53.561478"
+      },
+      "Clash.Verge_x64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_x64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-10-11T14:26:56+00:00",
+        "synced_at": "2025-10-11 14:26:56.226274"
+      },
+      "latest.json_3144": {
+        "name": "latest.json",
+        "size": 3144,
+        "updated_at": "2025-10-11T14:26:58+00:00",
+        "synced_at": "2025-10-11 14:26:58.828208"
+      }
     }
   },
   "source_codes": {
@@ -4476,6 +4734,16 @@
       "SourceCode_v1.6.4.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 14:20:03.255472"
+      }
+    },
+    "v1.6.5": {
+      "SourceCode_v1.6.5.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:23:25.777930"
+      },
+      "SourceCode_v1.6.5.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:23:25.784031"
       }
     }
   }
