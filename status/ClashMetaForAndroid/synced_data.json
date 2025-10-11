@@ -39,6 +39,10 @@
     "127689274": {
       "tag_name": "v2.9.0",
       "fully_synced_at": "2025-10-11 12:12:31.504974"
+    },
+    "137525561": {
+      "tag_name": "v2.10.0",
+      "fully_synced_at": "2025-10-11 12:13:01.098196"
     }
   },
   "assets": {
@@ -421,6 +425,44 @@
         "updated_at": "2025-10-11T12:12:31+00:00",
         "synced_at": "2025-10-11 12:12:31.503699"
       }
+    },
+    "137525561": {
+      "cmfa-2.10.0-meta-arm64-v8a-release.apk_20381024": {
+        "name": "cmfa-2.10.0-meta-arm64-v8a-release.apk",
+        "size": 20381024,
+        "updated_at": "2025-10-11T12:12:37+00:00",
+        "synced_at": "2025-10-11 12:12:37.735209"
+      },
+      "cmfa-2.10.0-meta-armeabi-v7a-release.apk_20648677": {
+        "name": "cmfa-2.10.0-meta-armeabi-v7a-release.apk",
+        "size": 20648677,
+        "updated_at": "2025-10-11T12:12:41+00:00",
+        "synced_at": "2025-10-11 12:12:42.078133"
+      },
+      "cmfa-2.10.0-meta-universal-release.apk_63016892": {
+        "name": "cmfa-2.10.0-meta-universal-release.apk",
+        "size": 63016892,
+        "updated_at": "2025-10-11T12:12:49+00:00",
+        "synced_at": "2025-10-11 12:12:49.195082"
+      },
+      "cmfa-2.10.0-meta-x86-release.apk_21598336": {
+        "name": "cmfa-2.10.0-meta-x86-release.apk",
+        "size": 21598336,
+        "updated_at": "2025-10-11T12:12:53+00:00",
+        "synced_at": "2025-10-11 12:12:53.887174"
+      },
+      "cmfa-2.10.0-meta-x86_64-release.apk_21060639": {
+        "name": "cmfa-2.10.0-meta-x86_64-release.apk",
+        "size": 21060639,
+        "updated_at": "2025-10-11T12:12:58+00:00",
+        "synced_at": "2025-10-11 12:12:58.300468"
+      },
+      "output-metadata.json_1622": {
+        "name": "output-metadata.json",
+        "size": 1622,
+        "updated_at": "2025-10-11T12:13:00+00:00",
+        "synced_at": "2025-10-11 12:13:01.096967"
+      }
     }
   },
   "source_codes": {
@@ -522,6 +564,16 @@
       "SourceCode_v2.9.0.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 12:12:05.648981"
+      }
+    },
+    "v2.10.0": {
+      "SourceCode_v2.10.0.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:12:32.917355"
+      },
+      "SourceCode_v2.10.0.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:12:32.918453"
       }
     }
   }
