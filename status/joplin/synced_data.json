@@ -1275,6 +1275,10 @@
     "136402181": {
       "tag_name": "v2.14.8",
       "fully_synced_at": "2025-10-11 14:31:38.868634"
+    },
+    "136737073": {
+      "tag_name": "v2.14.9",
+      "fully_synced_at": "2025-10-11 14:32:57.042429"
     }
   },
   "assets": {
@@ -18643,6 +18647,50 @@
         "updated_at": "2025-10-11T14:31:38+00:00",
         "synced_at": "2025-10-11 14:31:38.843173"
       }
+    },
+    "136737073": {
+      "Joplin-2.14.9-arm64.DMG_234670376": {
+        "name": "Joplin-2.14.9-arm64.DMG",
+        "size": 234670376,
+        "updated_at": "2025-10-11T14:31:56+00:00",
+        "synced_at": "2025-10-11 14:31:56.905494"
+      },
+      "Joplin-2.14.9.AppImage_245745544": {
+        "name": "Joplin-2.14.9.AppImage",
+        "size": 245745544,
+        "updated_at": "2025-10-11T14:32:12+00:00",
+        "synced_at": "2025-10-11 14:32:12.640774"
+      },
+      "Joplin-2.14.9.AppImage.sha512_128": {
+        "name": "Joplin-2.14.9.AppImage.sha512",
+        "size": 128,
+        "updated_at": "2025-10-11T14:32:15+00:00",
+        "synced_at": "2025-10-11 14:32:15.361298"
+      },
+      "Joplin-Setup-2.14.9.exe_278472328": {
+        "name": "Joplin-Setup-2.14.9.exe",
+        "size": 278472328,
+        "updated_at": "2025-10-11T14:32:35+00:00",
+        "synced_at": "2025-10-11 14:32:35.178305"
+      },
+      "JoplinPortable.exe_278241584": {
+        "name": "JoplinPortable.exe",
+        "size": 278241584,
+        "updated_at": "2025-10-11T14:32:51+00:00",
+        "synced_at": "2025-10-11 14:32:51.519011"
+      },
+      "latest-linux.yml_367": {
+        "name": "latest-linux.yml",
+        "size": 367,
+        "updated_at": "2025-10-11T14:32:54+00:00",
+        "synced_at": "2025-10-11 14:32:54.273825"
+      },
+      "latest.yml_324": {
+        "name": "latest.yml",
+        "size": 324,
+        "updated_at": "2025-10-11T14:32:56+00:00",
+        "synced_at": "2025-10-11 14:32:57.017083"
+      }
     }
   },
   "source_codes": {
@@ -21834,6 +21882,16 @@
       "SourceCode_v2.14.8.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 14:30:05.051856"
+      }
+    },
+    "v2.14.9": {
+      "SourceCode_v2.14.9.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:31:42.642995"
+      },
+      "SourceCode_v2.14.9.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:31:42.668378"
       }
     }
   }
