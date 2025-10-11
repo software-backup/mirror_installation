@@ -55,6 +55,10 @@
     "141532965": {
       "tag_name": "v1.5.1",
       "fully_synced_at": "2025-10-11 13:27:27.870401"
+    },
+    "142811911": {
+      "tag_name": "v1.5.2",
+      "fully_synced_at": "2025-10-11 13:28:43.878399"
     }
   },
   "assets": {
@@ -2269,6 +2273,128 @@
         "updated_at": "2025-10-11T13:27:27+00:00",
         "synced_at": "2025-10-11 13:27:27.866602"
       }
+    },
+    "142811911": {
+      "clash-verge_1.5.2_amd64.AppImage_103728320": {
+        "name": "clash-verge_1.5.2_amd64.AppImage",
+        "size": 103728320,
+        "updated_at": "2025-10-11T13:27:36+00:00",
+        "synced_at": "2025-10-11 13:27:36.612663"
+      },
+      "clash-verge_1.5.2_amd64.AppImage.tar.gz_102601968": {
+        "name": "clash-verge_1.5.2_amd64.AppImage.tar.gz",
+        "size": 102601968,
+        "updated_at": "2025-10-11T13:27:42+00:00",
+        "synced_at": "2025-10-11 13:27:42.774938"
+      },
+      "clash-verge_1.5.2_amd64.AppImage.tar.gz.sig_432": {
+        "name": "clash-verge_1.5.2_amd64.AppImage.tar.gz.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T13:27:45+00:00",
+        "synced_at": "2025-10-11 13:27:45.599303"
+      },
+      "clash-verge_1.5.2_amd64.deb_42938832": {
+        "name": "clash-verge_1.5.2_amd64.deb",
+        "size": 42938832,
+        "updated_at": "2025-10-11T13:27:49+00:00",
+        "synced_at": "2025-10-11 13:27:49.280003"
+      },
+      "clash-verge_1.5.2_arm64.deb_40774064": {
+        "name": "clash-verge_1.5.2_arm64.deb",
+        "size": 40774064,
+        "updated_at": "2025-10-11T13:27:53+00:00",
+        "synced_at": "2025-10-11 13:27:53.489973"
+      },
+      "Clash.Verge_1.5.2_aarch64.dmg_32328675": {
+        "name": "Clash.Verge_1.5.2_aarch64.dmg",
+        "size": 32328675,
+        "updated_at": "2025-10-11T13:27:57+00:00",
+        "synced_at": "2025-10-11 13:27:57.354921"
+      },
+      "Clash.Verge_1.5.2_arm64-setup.exe_24403724": {
+        "name": "Clash.Verge_1.5.2_arm64-setup.exe",
+        "size": 24403724,
+        "updated_at": "2025-10-11T13:28:00+00:00",
+        "synced_at": "2025-10-11 13:28:01.024722"
+      },
+      "Clash.Verge_1.5.2_arm64-setup.nsis.zip_22899568": {
+        "name": "Clash.Verge_1.5.2_arm64-setup.nsis.zip",
+        "size": 22899568,
+        "updated_at": "2025-10-11T13:28:04+00:00",
+        "synced_at": "2025-10-11 13:28:04.561392"
+      },
+      "Clash.Verge_1.5.2_arm64-setup.nsis.zip.sig_432": {
+        "name": "Clash.Verge_1.5.2_arm64-setup.nsis.zip.sig",
+        "size": 432,
+        "updated_at": "2025-10-11T13:28:07+00:00",
+        "synced_at": "2025-10-11 13:28:07.149054"
+      },
+      "Clash.Verge_1.5.2_arm64_portable.zip_31481259": {
+        "name": "Clash.Verge_1.5.2_arm64_portable.zip",
+        "size": 31481259,
+        "updated_at": "2025-10-11T13:28:10+00:00",
+        "synced_at": "2025-10-11 13:28:10.865529"
+      },
+      "Clash.Verge_1.5.2_x64-setup.exe_26972335": {
+        "name": "Clash.Verge_1.5.2_x64-setup.exe",
+        "size": 26972335,
+        "updated_at": "2025-10-11T13:28:14+00:00",
+        "synced_at": "2025-10-11 13:28:14.439755"
+      },
+      "Clash.Verge_1.5.2_x64-setup.nsis.zip_25470080": {
+        "name": "Clash.Verge_1.5.2_x64-setup.nsis.zip",
+        "size": 25470080,
+        "updated_at": "2025-10-11T13:28:17+00:00",
+        "synced_at": "2025-10-11 13:28:18.049585"
+      },
+      "Clash.Verge_1.5.2_x64-setup.nsis.zip.sig_428": {
+        "name": "Clash.Verge_1.5.2_x64-setup.nsis.zip.sig",
+        "size": 428,
+        "updated_at": "2025-10-11T13:28:20+00:00",
+        "synced_at": "2025-10-11 13:28:20.670410"
+      },
+      "Clash.Verge_1.5.2_x64.dmg_33453211": {
+        "name": "Clash.Verge_1.5.2_x64.dmg",
+        "size": 33453211,
+        "updated_at": "2025-10-11T13:28:24+00:00",
+        "synced_at": "2025-10-11 13:28:24.487253"
+      },
+      "Clash.Verge_1.5.2_x64_portable.zip_33662701": {
+        "name": "Clash.Verge_1.5.2_x64_portable.zip",
+        "size": 33662701,
+        "updated_at": "2025-10-11T13:28:28+00:00",
+        "synced_at": "2025-10-11 13:28:28.183860"
+      },
+      "Clash.Verge_aarch64.app.tar.gz_36261096": {
+        "name": "Clash.Verge_aarch64.app.tar.gz",
+        "size": 36261096,
+        "updated_at": "2025-10-11T13:28:32+00:00",
+        "synced_at": "2025-10-11 13:28:32.190631"
+      },
+      "Clash.Verge_aarch64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_aarch64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-10-11T13:28:34+00:00",
+        "synced_at": "2025-10-11 13:28:34.685293"
+      },
+      "Clash.Verge_x64.app.tar.gz_37906709": {
+        "name": "Clash.Verge_x64.app.tar.gz",
+        "size": 37906709,
+        "updated_at": "2025-10-11T13:28:38+00:00",
+        "synced_at": "2025-10-11 13:28:38.527608"
+      },
+      "Clash.Verge_x64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_x64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-10-11T13:28:41+00:00",
+        "synced_at": "2025-10-11 13:28:41.243323"
+      },
+      "latest.json_2536": {
+        "name": "latest.json",
+        "size": 2536,
+        "updated_at": "2025-10-11T13:28:43+00:00",
+        "synced_at": "2025-10-11 13:28:43.874370"
+      }
     }
   },
   "source_codes": {
@@ -2410,6 +2536,16 @@
       "SourceCode_v1.5.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 13:26:14.143234"
+      }
+    },
+    "v1.5.2": {
+      "SourceCode_v1.5.2.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 13:27:30.688814"
+      },
+      "SourceCode_v1.5.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 13:27:30.692252"
       }
     }
   }
