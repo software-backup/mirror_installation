@@ -95,6 +95,10 @@
     "152335951": {
       "tag_name": "v1.6.0",
       "fully_synced_at": "2025-10-11 14:15:01.963174"
+    },
+    "153537281": {
+      "tag_name": "v1.6.1",
+      "fully_synced_at": "2025-10-11 14:16:21.486575"
     }
   },
   "assets": {
@@ -3681,6 +3685,44 @@
         "updated_at": "2025-10-11T14:16:21+00:00",
         "synced_at": "2025-10-11 14:16:21.480177"
       }
+    },
+    "154261382": {
+      "libjavascriptcoregtk-4.0-18_2.43.3-1_amd64.deb_10148010": {
+        "name": "libjavascriptcoregtk-4.0-18_2.43.3-1_amd64.deb",
+        "size": 10148010,
+        "updated_at": "2025-10-11T14:16:27+00:00",
+        "synced_at": "2025-10-11 14:16:27.535803"
+      },
+      "libjavascriptcoregtk-4.0-18_2.43.3-1_arm64.deb_9988166": {
+        "name": "libjavascriptcoregtk-4.0-18_2.43.3-1_arm64.deb",
+        "size": 9988166,
+        "updated_at": "2025-10-11T14:16:30+00:00",
+        "synced_at": "2025-10-11 14:16:30.659210"
+      },
+      "libjavascriptcoregtk-4.0-18_2.43.3-1_armhf.deb_6745214": {
+        "name": "libjavascriptcoregtk-4.0-18_2.43.3-1_armhf.deb",
+        "size": 6745214,
+        "updated_at": "2025-10-11T14:16:33+00:00",
+        "synced_at": "2025-10-11 14:16:33.671371"
+      },
+      "libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb_27906698": {
+        "name": "libwebkit2gtk-4.0-37_2.43.3-1_amd64.deb",
+        "size": 27906698,
+        "updated_at": "2025-10-11T14:16:37+00:00",
+        "synced_at": "2025-10-11 14:16:37.222690"
+      },
+      "libwebkit2gtk-4.0-37_2.43.3-1_arm64.deb_28070800": {
+        "name": "libwebkit2gtk-4.0-37_2.43.3-1_arm64.deb",
+        "size": 28070800,
+        "updated_at": "2025-10-11T14:16:40+00:00",
+        "synced_at": "2025-10-11 14:16:40.699628"
+      },
+      "libwebkit2gtk-4.0-37_2.43.3-1_armhf.deb_23760440": {
+        "name": "libwebkit2gtk-4.0-37_2.43.3-1_armhf.deb",
+        "size": 23760440,
+        "updated_at": "2025-10-11T14:16:44+00:00",
+        "synced_at": "2025-10-11 14:16:44.339857"
+      }
     }
   },
   "source_codes": {
@@ -3932,6 +3974,16 @@
       "SourceCode_v1.6.1.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 14:15:03.829299"
+      }
+    },
+    "dependencies": {
+      "SourceCode_dependencies.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:16:24.285630"
+      },
+      "SourceCode_dependencies.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 14:16:24.291137"
       }
     }
   }
