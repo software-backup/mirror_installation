@@ -302,10 +302,54 @@ def push_after_version(tag_name):
         subprocess.run(['git', 'add', SYNCED_DATA_FILE, SYNCED_DATA_BACKUP], check=True, capture_output=True, text=True)
         commit_msg = f"版本 {tag_name} 有文件更新，同步状态"
         subprocess.run(['git', 'commit', '-m', commit_msg], check=True, capture_output=True, text=True)
-        subprocess.run(['git', 'push'], check=True, capture_output=True, text=True)
-        print(f"✅ 已提交版本 {tag_name} 的更新状态")
+        
+        # 添加重试机制和拉取逻辑
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                # 先拉取最新变更（使用 rebase 避免合并提交）
+                print(f"推送前拉取最新变更 (尝试 {attempt + 1}/{max_retries})")
+                pull_result = subprocess.run(['git', 'pull', '--rebase'], 
+                                           capture_output=True, text=True, check=False)
+                
+                if pull_result.returncode != 0:
+                    print(f"拉取失败: {pull_result.stderr}")
+                    # 如果rebase失败，重置并重试
+                    subprocess.run(['git', 'rebase', '--abort'], capture_output=True, text=True, check=False)
+                    print("重置rebase冲突，重新拉取...")
+                    subprocess.run(['git', 'pull'], capture_output=True, text=True, check=False)
+                
+                # 推送
+                push_result = subprocess.run(['git', 'push'], 
+                                           capture_output=True, text=True, check=False)
+                
+                if push_result.returncode == 0:
+                    print(f"✅ 已提交版本 {tag_name} 的更新状态")
+                    break
+                else:
+                    print(f"推送失败: {push_result.stderr}")
+                    if attempt < max_retries - 1:
+                        print(f"{RETRY_DELAY}秒后重试...")
+                        time.sleep(RETRY_DELAY)
+                    else:
+                        print(f"❌ 推送达到最大重试次数，放弃")
+                        # 最后一次尝试也失败时，抛出异常
+                        push_result.check_returncode()
+                        
+            except subprocess.CalledProcessError as e:
+                if attempt < max_retries - 1:
+                    print(f"推送失败 (尝试 {attempt + 1}/{max_retries}): {e}")
+                    print(f"{RETRY_DELAY}秒后重试...")
+                    time.sleep(RETRY_DELAY)
+                else:
+                    print(f"❌ 推送达到最大重试次数，放弃")
+                    raise
+                    
     except Exception as e:
         print(f"⚠️ 提交失败: {e}")
+        # 输出详细的错误信息
+        error_output = e.stderr if hasattr(e, 'stderr') else str(e)
+        print(f"错误详情: {error_output}")
 
 # ========== 主函数 ==========
 def main():
