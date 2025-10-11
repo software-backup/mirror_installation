@@ -91,6 +91,10 @@
     "209642532": {
       "tag_name": "v2.11.8",
       "fully_synced_at": "2025-10-11 12:20:12.039077"
+    },
+    "213704544": {
+      "tag_name": "v2.11.9",
+      "fully_synced_at": "2025-10-11 12:20:36.408785"
     }
   },
   "assets": {
@@ -1005,6 +1009,44 @@
         "updated_at": "2025-10-11T12:20:36+00:00",
         "synced_at": "2025-10-11 12:20:36.406779"
       }
+    },
+    "217761459": {
+      "cmfa-2.11.10-meta-arm64-v8a-release.apk_25025625": {
+        "name": "cmfa-2.11.10-meta-arm64-v8a-release.apk",
+        "size": 25025625,
+        "updated_at": "2025-10-11T12:20:42+00:00",
+        "synced_at": "2025-10-11 12:20:42.278220"
+      },
+      "cmfa-2.11.10-meta-armeabi-v7a-release.apk_25161234": {
+        "name": "cmfa-2.11.10-meta-armeabi-v7a-release.apk",
+        "size": 25161234,
+        "updated_at": "2025-10-11T12:20:45+00:00",
+        "synced_at": "2025-10-11 12:20:45.791333"
+      },
+      "cmfa-2.11.10-meta-universal-release.apk_61143988": {
+        "name": "cmfa-2.11.10-meta-universal-release.apk",
+        "size": 61143988,
+        "updated_at": "2025-10-11T12:20:50+00:00",
+        "synced_at": "2025-10-11 12:20:51.082791"
+      },
+      "cmfa-2.11.10-meta-x86-release.apk_26084991": {
+        "name": "cmfa-2.11.10-meta-x86-release.apk",
+        "size": 26084991,
+        "updated_at": "2025-10-11T12:20:54+00:00",
+        "synced_at": "2025-10-11 12:20:54.979346"
+      },
+      "cmfa-2.11.10-meta-x86_64-release.apk_25760887": {
+        "name": "cmfa-2.11.10-meta-x86_64-release.apk",
+        "size": 25760887,
+        "updated_at": "2025-10-11T12:20:58+00:00",
+        "synced_at": "2025-10-11 12:20:58.872319"
+      },
+      "output-metadata.json_2552": {
+        "name": "output-metadata.json",
+        "size": 2552,
+        "updated_at": "2025-10-11T12:21:01+00:00",
+        "synced_at": "2025-10-11 12:21:01.485328"
+      }
     }
   },
   "source_codes": {
@@ -1246,6 +1288,16 @@
       "SourceCode_v2.11.9.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 12:20:13.431320"
+      }
+    },
+    "2.11.10": {
+      "SourceCode_2.11.10.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:20:37.895078"
+      },
+      "SourceCode_2.11.10.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:20:37.897084"
       }
     }
   }
