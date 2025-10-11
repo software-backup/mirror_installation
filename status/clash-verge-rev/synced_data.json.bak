@@ -159,6 +159,10 @@
     "194989306": {
       "tag_name": "v2.0.3",
       "fully_synced_at": "2025-10-11 15:16:08.854047"
+    },
+    "203109551": {
+      "tag_name": "v2.1.2",
+      "fully_synced_at": "2025-10-11 15:17:46.032472"
     }
   },
   "assets": {
@@ -7089,6 +7093,32 @@
         "updated_at": "2025-10-11T15:17:45+00:00",
         "synced_at": "2025-10-11 15:17:46.022028"
       }
+    },
+    "241770751": {
+      "update-fixed-webview2-proxy.json_783": {
+        "name": "update-fixed-webview2-proxy.json",
+        "size": 783,
+        "updated_at": "2025-10-11T15:17:51+00:00",
+        "synced_at": "2025-10-11 15:17:51.442697"
+      },
+      "update-fixed-webview2.json_783": {
+        "name": "update-fixed-webview2.json",
+        "size": 783,
+        "updated_at": "2025-10-11T15:17:53+00:00",
+        "synced_at": "2025-10-11 15:17:54.002255"
+      },
+      "update-proxy.json_8015": {
+        "name": "update-proxy.json",
+        "size": 8015,
+        "updated_at": "2025-10-11T15:17:56+00:00",
+        "synced_at": "2025-10-11 15:17:56.556388"
+      },
+      "update.json_7599": {
+        "name": "update.json",
+        "size": 7599,
+        "updated_at": "2025-10-11T15:17:59+00:00",
+        "synced_at": "2025-10-11 15:17:59.241486"
+      }
     }
   },
   "source_codes": {
@@ -7500,6 +7530,16 @@
       "SourceCode_v2.1.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 15:16:10.700577"
+      }
+    },
+    "updater": {
+      "SourceCode_updater.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 15:17:48.864845"
+      },
+      "SourceCode_updater.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 15:17:48.874757"
       }
     }
   }
