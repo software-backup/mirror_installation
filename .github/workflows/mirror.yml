@@ -3,7 +3,7 @@ name: software-installation同步releases
 
 on:
   schedule:
-    - cron: '0 0 */2 * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -53,6 +53,35 @@ jobs:
       TARGET_REPO_NAME: joplin
     steps: *mirror-steps
   
+  LibNyanpasu_clash-nyanpasu:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    env:
+      SOURCE_REPO: "LibNyanpasu/clash-nyanpasu"
+      TARGET_REPO: "mirror_clash-nyanpasu"
+      TARGET_REPO_NAME: clash-nyanpasu
+    steps: *mirror-steps
 
+  MetaCubeX_ClashMetaForAndroid:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    env:
+      SOURCE_REPO: "MetaCubeX/ClashMetaForAndroid"
+      TARGET_REPO: "software-installation/mirror_ClashMetaForAndroid"
+      TARGET_REPO_NAME: ClashMetaForAndroid
+    steps: *mirror-steps
 
-
+  clash-verge-rev_clash-verge-rev:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    env:
+      SOURCE_REPO: "clash-verge-rev/clash-verge-rev"
+      TARGET_REPO: "software-installation/mirror_clash-verge-rev"
+      TARGET_REPO_NAME: clash-verge-rev
+    steps: *mirror-steps
