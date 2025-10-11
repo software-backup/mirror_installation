@@ -123,6 +123,10 @@
     "242819056": {
       "tag_name": "v2.11.16",
       "fully_synced_at": "2025-10-11 12:40:22.145590"
+    },
+    "249599829": {
+      "tag_name": "v2.11.17",
+      "fully_synced_at": "2025-10-11 12:40:43.758460"
     }
   },
   "assets": {
@@ -1341,6 +1345,44 @@
         "updated_at": "2025-10-11T12:40:43+00:00",
         "synced_at": "2025-10-11 12:40:43.756063"
       }
+    },
+    "249597484": {
+      "cmfa-2.11.16-alpha-arm64-v8a-release.apk_26002608": {
+        "name": "cmfa-2.11.16-alpha-arm64-v8a-release.apk",
+        "size": 26002608,
+        "updated_at": "2025-10-11T12:40:49+00:00",
+        "synced_at": "2025-10-11 12:40:49.342988"
+      },
+      "cmfa-2.11.16-alpha-armeabi-v7a-release.apk_26279710": {
+        "name": "cmfa-2.11.16-alpha-armeabi-v7a-release.apk",
+        "size": 26279710,
+        "updated_at": "2025-10-11T12:40:52+00:00",
+        "synced_at": "2025-10-11 12:40:52.727937"
+      },
+      "cmfa-2.11.16-alpha-universal-release.apk_63704661": {
+        "name": "cmfa-2.11.16-alpha-universal-release.apk",
+        "size": 63704661,
+        "updated_at": "2025-10-11T12:40:57+00:00",
+        "synced_at": "2025-10-11 12:40:57.127866"
+      },
+      "cmfa-2.11.16-alpha-x86-release.apk_27235287": {
+        "name": "cmfa-2.11.16-alpha-x86-release.apk",
+        "size": 27235287,
+        "updated_at": "2025-10-11T12:41:00+00:00",
+        "synced_at": "2025-10-11 12:41:02.058240"
+      },
+      "cmfa-2.11.16-alpha-x86_64-release.apk_27005368": {
+        "name": "cmfa-2.11.16-alpha-x86_64-release.apk",
+        "size": 27005368,
+        "updated_at": "2025-10-11T12:41:05+00:00",
+        "synced_at": "2025-10-11 12:41:05.426246"
+      },
+      "output-metadata.json_2574": {
+        "name": "output-metadata.json",
+        "size": 2574,
+        "updated_at": "2025-10-11T12:41:07+00:00",
+        "synced_at": "2025-10-11 12:41:08.000633"
+      }
     }
   },
   "source_codes": {
@@ -1662,6 +1704,16 @@
       "SourceCode_v2.11.17.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 12:40:23.604277"
+      }
+    },
+    "Prerelease-alpha": {
+      "SourceCode_Prerelease-alpha.zip": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:40:45.508971"
+      },
+      "SourceCode_Prerelease-alpha.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-10-11 12:40:45.511334"
       }
     }
   }
