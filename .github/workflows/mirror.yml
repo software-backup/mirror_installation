@@ -60,7 +60,7 @@ jobs:
       packages: write
     env:
       SOURCE_REPO: "LibNyanpasu/clash-nyanpasu"
-      TARGET_REPO: "mirror_clash-nyanpasu"
+      TARGET_REPO: "software-installation/mirror_clash-nyanpasu"
       TARGET_REPO_NAME: clash-nyanpasu
     steps: *mirror-steps
 
@@ -85,3 +85,4 @@ jobs:
       TARGET_REPO: "software-installation/mirror_clash-verge-rev"
       TARGET_REPO_NAME: clash-verge-rev
     steps: *mirror-steps
+
