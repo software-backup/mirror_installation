@@ -2,11 +2,11 @@
   "releases": {
     "129492351": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-10-24 01:25:03.437473"
+      "fully_synced_at": "2025-10-25 01:26:33.824366"
     },
     "129656435": {
       "tag_name": "updater",
-      "fully_synced_at": "2025-10-24 01:25:16.875081"
+      "fully_synced_at": "2025-10-25 01:26:47.955889"
     },
     "132804452": {
       "tag_name": "v1.4.1",
@@ -182,26 +182,26 @@
       "update-nightly-fixed-webview-proxy.json_6486": {
         "name": "update-nightly-fixed-webview-proxy.json",
         "size": 6486,
-        "updated_at": "2025-10-24T01:25:08+00:00",
-        "synced_at": "2025-10-24 01:25:08.324587"
+        "updated_at": "2025-10-25T01:26:38+00:00",
+        "synced_at": "2025-10-25 01:26:39.167159"
       },
       "update-nightly-fixed-webview.json_6356": {
         "name": "update-nightly-fixed-webview.json",
         "size": 6356,
-        "updated_at": "2025-10-24T01:25:10+00:00",
-        "synced_at": "2025-10-24 01:25:11.111734"
+        "updated_at": "2025-10-25T01:26:41+00:00",
+        "synced_at": "2025-10-25 01:26:41.910515"
       },
       "update-nightly-proxy.json_6430": {
         "name": "update-nightly-proxy.json",
         "size": 6430,
-        "updated_at": "2025-10-24T01:25:13+00:00",
-        "synced_at": "2025-10-24 01:25:13.929358"
+        "updated_at": "2025-10-25T01:26:44+00:00",
+        "synced_at": "2025-10-25 01:26:45.089559"
       },
       "update-nightly.json_6300": {
         "name": "update-nightly.json",
         "size": 6300,
-        "updated_at": "2025-10-24T01:25:16+00:00",
-        "synced_at": "2025-10-24 01:25:16.872113"
+        "updated_at": "2025-10-25T01:26:47+00:00",
+        "synced_at": "2025-10-25 01:26:47.953114"
       },
       "update-proxy.json_7734": {
         "name": "update-proxy.json",
