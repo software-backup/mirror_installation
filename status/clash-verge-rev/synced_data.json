@@ -207,6 +207,10 @@
     "245312085": {
       "tag_name": "v2.4.2",
       "fully_synced_at": "2025-10-11 15:32:32.195532"
+    },
+    "259168912": {
+      "tag_name": "updater-autobuild",
+      "fully_synced_at": "2025-11-04 01:41:26.503045"
     }
   },
   "assets": {
@@ -9960,6 +9964,20 @@
         "updated_at": "2025-10-11T15:32:32+00:00",
         "synced_at": "2025-10-11 15:32:32.183487"
       }
+    },
+    "259168912": {
+      "update-proxy.json_22151": {
+        "name": "update-proxy.json",
+        "size": 22151,
+        "updated_at": "2025-11-04T01:41:24+00:00",
+        "synced_at": "2025-11-04 01:41:25.029654"
+      },
+      "update.json_21831": {
+        "name": "update.json",
+        "size": 21831,
+        "updated_at": "2025-11-04T01:41:26+00:00",
+        "synced_at": "2025-11-04 01:41:26.488924"
+      }
     }
   },
   "source_codes": {
@@ -10481,6 +10499,16 @@
       "SourceCode_v2.4.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-10-11 15:31:10.954240"
+      }
+    },
+    "updater-autobuild": {
+      "SourceCode_updater-autobuild.zip": {
+        "exists": true,
+        "synced_at": "2025-11-04 01:41:20.601675"
+      },
+      "SourceCode_updater-autobuild.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-11-04 01:41:23.298399"
       }
     }
   }
