@@ -211,6 +211,10 @@
     "259168912": {
       "tag_name": "updater-autobuild",
       "fully_synced_at": "2025-11-04 01:41:26.503045"
+    },
+    "260832413": {
+      "tag_name": "v2.4.3-rc",
+      "fully_synced_at": "2025-11-09 01:47:15.084573"
     }
   },
   "assets": {
@@ -9978,6 +9982,134 @@
         "updated_at": "2025-11-04T01:41:26+00:00",
         "synced_at": "2025-11-04 01:41:26.488924"
       }
+    },
+    "260832413": {
+      "Clash.Verge-2.4.3-rc-1.aarch64.rpm_54815694": {
+        "name": "Clash.Verge-2.4.3-rc-1.aarch64.rpm",
+        "size": 54815694,
+        "updated_at": "2025-11-09T01:45:07+00:00",
+        "synced_at": "2025-11-09 01:45:07.494361"
+      },
+      "Clash.Verge-2.4.3-rc-1.armhfp.rpm_55768362": {
+        "name": "Clash.Verge-2.4.3-rc-1.armhfp.rpm",
+        "size": 55768362,
+        "updated_at": "2025-11-09T01:45:11+00:00",
+        "synced_at": "2025-11-09 01:45:12.017202"
+      },
+      "Clash.Verge-2.4.3-rc-1.x86_64.rpm_56533033": {
+        "name": "Clash.Verge-2.4.3-rc-1.x86_64.rpm",
+        "size": 56533033,
+        "updated_at": "2025-11-09T01:45:19+00:00",
+        "synced_at": "2025-11-09 01:45:19.796115"
+      },
+      "Clash.Verge_2.4.3-rc_aarch64.dmg_48840593": {
+        "name": "Clash.Verge_2.4.3-rc_aarch64.dmg",
+        "size": 48840593,
+        "updated_at": "2025-11-09T01:45:24+00:00",
+        "synced_at": "2025-11-09 01:45:24.773049"
+      },
+      "Clash.Verge_2.4.3-rc_amd64.deb_56541248": {
+        "name": "Clash.Verge_2.4.3-rc_amd64.deb",
+        "size": 56541248,
+        "updated_at": "2025-11-09T01:45:29+00:00",
+        "synced_at": "2025-11-09 01:45:29.242414"
+      },
+      "Clash.Verge_2.4.3-rc_arm64-setup.exe_34168053": {
+        "name": "Clash.Verge_2.4.3-rc_arm64-setup.exe",
+        "size": 34168053,
+        "updated_at": "2025-11-09T01:45:34+00:00",
+        "synced_at": "2025-11-09 01:45:34.772044"
+      },
+      "Clash.Verge_2.4.3-rc_arm64-setup.exe.sig_428": {
+        "name": "Clash.Verge_2.4.3-rc_arm64-setup.exe.sig",
+        "size": 428,
+        "updated_at": "2025-11-09T01:45:36+00:00",
+        "synced_at": "2025-11-09 01:45:36.282362"
+      },
+      "Clash.Verge_2.4.3-rc_arm64.deb_54822396": {
+        "name": "Clash.Verge_2.4.3-rc_arm64.deb",
+        "size": 54822396,
+        "updated_at": "2025-11-09T01:45:41+00:00",
+        "synced_at": "2025-11-09 01:45:41.328039"
+      },
+      "Clash.Verge_2.4.3-rc_arm64_fixed_webview2-setup.exe_173629520": {
+        "name": "Clash.Verge_2.4.3-rc_arm64_fixed_webview2-setup.exe",
+        "size": 173629520,
+        "updated_at": "2025-11-09T01:45:51+00:00",
+        "synced_at": "2025-11-09 01:45:52.128344"
+      },
+      "Clash.Verge_2.4.3-rc_arm64_fixed_webview2-setup.exe.sig_428": {
+        "name": "Clash.Verge_2.4.3-rc_arm64_fixed_webview2-setup.exe.sig",
+        "size": 428,
+        "updated_at": "2025-11-09T01:45:53+00:00",
+        "synced_at": "2025-11-09 01:45:53.635018"
+      },
+      "Clash.Verge_2.4.3-rc_armhf.deb_55770848": {
+        "name": "Clash.Verge_2.4.3-rc_armhf.deb",
+        "size": 55770848,
+        "updated_at": "2025-11-09T01:45:57+00:00",
+        "synced_at": "2025-11-09 01:45:57.917852"
+      },
+      "Clash.Verge_2.4.3-rc_x64-setup.exe_38139834": {
+        "name": "Clash.Verge_2.4.3-rc_x64-setup.exe",
+        "size": 38139834,
+        "updated_at": "2025-11-09T01:46:00+00:00",
+        "synced_at": "2025-11-09 01:46:00.798347"
+      },
+      "Clash.Verge_2.4.3-rc_x64-setup.exe.sig_428": {
+        "name": "Clash.Verge_2.4.3-rc_x64-setup.exe.sig",
+        "size": 428,
+        "updated_at": "2025-11-09T01:46:02+00:00",
+        "synced_at": "2025-11-09 01:46:02.289106"
+      },
+      "Clash.Verge_2.4.3-rc_x64.dmg_52198086": {
+        "name": "Clash.Verge_2.4.3-rc_x64.dmg",
+        "size": 52198086,
+        "updated_at": "2025-11-09T01:46:06+00:00",
+        "synced_at": "2025-11-09 01:46:06.860236"
+      },
+      "Clash.Verge_2.4.3-rc_x64_fixed_webview2-setup.exe_190872515": {
+        "name": "Clash.Verge_2.4.3-rc_x64_fixed_webview2-setup.exe",
+        "size": 190872515,
+        "updated_at": "2025-11-09T01:46:58+00:00",
+        "synced_at": "2025-11-09 01:46:59.018704"
+      },
+      "Clash.Verge_2.4.3-rc_x64_fixed_webview2-setup.exe.sig_428": {
+        "name": "Clash.Verge_2.4.3-rc_x64_fixed_webview2-setup.exe.sig",
+        "size": 428,
+        "updated_at": "2025-11-09T01:47:00+00:00",
+        "synced_at": "2025-11-09 01:47:00.512852"
+      },
+      "Clash.Verge_aarch64.app.tar.gz_49929953": {
+        "name": "Clash.Verge_aarch64.app.tar.gz",
+        "size": 49929953,
+        "updated_at": "2025-11-09T01:47:04+00:00",
+        "synced_at": "2025-11-09 01:47:04.582344"
+      },
+      "Clash.Verge_aarch64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_aarch64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-11-09T01:47:05+00:00",
+        "synced_at": "2025-11-09 01:47:06.050607"
+      },
+      "Clash.Verge_x64.app.tar.gz_53133839": {
+        "name": "Clash.Verge_x64.app.tar.gz",
+        "size": 53133839,
+        "updated_at": "2025-11-09T01:47:11+00:00",
+        "synced_at": "2025-11-09 01:47:11.279698"
+      },
+      "Clash.Verge_x64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_x64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2025-11-09T01:47:12+00:00",
+        "synced_at": "2025-11-09 01:47:13.035383"
+      },
+      "latest.json_2544": {
+        "name": "latest.json",
+        "size": 2544,
+        "updated_at": "2025-11-09T01:47:14+00:00",
+        "synced_at": "2025-11-09 01:47:15.071213"
+      }
     }
   },
   "source_codes": {
@@ -10509,6 +10641,16 @@
       "SourceCode_updater-autobuild.tar.gz": {
         "exists": true,
         "synced_at": "2025-11-04 01:41:23.298399"
+      }
+    },
+    "v2.4.3-rc": {
+      "SourceCode_v2.4.3-rc.zip": {
+        "exists": true,
+        "synced_at": "2025-11-09 01:44:56.702854"
+      },
+      "SourceCode_v2.4.3-rc.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-11-09 01:44:59.702405"
       }
     }
   }
