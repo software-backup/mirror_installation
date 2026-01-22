@@ -231,6 +231,10 @@
     "271685100": {
       "tag_name": "v2.4.4",
       "fully_synced_at": "2025-12-20 01:43:29.440507"
+    },
+    "276640894": {
+      "tag_name": "v2.4.5-rc.1",
+      "fully_synced_at": "2026-01-15 01:53:01.378561"
     }
   },
   "assets": {
@@ -10814,6 +10818,20 @@
         "updated_at": "2026-01-15T01:53:01+00:00",
         "synced_at": "2026-01-15 01:53:01.365551"
       }
+    },
+    "278635763": {
+      "Clash.Verge-2.4.5-rc.2-1.aarch64.rpm_55837757": {
+        "name": "Clash.Verge-2.4.5-rc.2-1.aarch64.rpm",
+        "size": 55837757,
+        "updated_at": "2026-01-22T01:56:08+00:00",
+        "synced_at": "2026-01-22 01:56:08.583086"
+      },
+      "Clash.Verge_2.4.5-rc.2_arm64.deb_55845860": {
+        "name": "Clash.Verge_2.4.5-rc.2_arm64.deb",
+        "size": 55845860,
+        "updated_at": "2026-01-22T01:56:11+00:00",
+        "synced_at": "2026-01-22 01:56:11.888741"
+      }
     }
   },
   "source_codes": {
@@ -11405,6 +11423,16 @@
       "SourceCode_v2.4.5-rc.1.tar.gz": {
         "exists": true,
         "synced_at": "2026-01-15 01:51:28.719433"
+      }
+    },
+    "v2.4.5-rc.2": {
+      "SourceCode_v2.4.5-rc.2.zip": {
+        "exists": true,
+        "synced_at": "2026-01-22 01:55:59.821235"
+      },
+      "SourceCode_v2.4.5-rc.2.tar.gz": {
+        "exists": true,
+        "synced_at": "2026-01-22 01:56:02.560366"
       }
     }
   }
