@@ -279,6 +279,10 @@
     "393737198": {
       "tag_name": "v2.5.5",
       "fully_synced_at": "2026-09-23 03:45:09.654628"
+    },
+    "397051617": {
+      "tag_name": "v2.5.6",
+      "fully_synced_at": "2026-09-27 04:08:33.378648"
     }
   },
   "assets": {
@@ -12276,6 +12280,146 @@
         "updated_at": "2026-09-23T03:45:09+00:00",
         "synced_at": "2026-09-23 03:45:09.641821"
       }
+    },
+    "397051617": {
+      "Clash.Verge-2.5.6-1.aarch64.rpm_98531323": {
+        "name": "Clash.Verge-2.5.6-1.aarch64.rpm",
+        "size": 98531323,
+        "updated_at": "2026-09-27T04:07:22+00:00",
+        "synced_at": "2026-09-27 04:07:22.853933"
+      },
+      "Clash.Verge-2.5.6-1.armhfp.rpm_102532916": {
+        "name": "Clash.Verge-2.5.6-1.armhfp.rpm",
+        "size": 102532916,
+        "updated_at": "2026-09-27T04:07:27+00:00",
+        "synced_at": "2026-09-27 04:07:27.158495"
+      },
+      "Clash.Verge-2.5.6-1.x86_64.rpm_102504283": {
+        "name": "Clash.Verge-2.5.6-1.x86_64.rpm",
+        "size": 102504283,
+        "updated_at": "2026-09-27T04:07:32+00:00",
+        "synced_at": "2026-09-27 04:07:32.391166"
+      },
+      "Clash.Verge-2.5.6-1.x86_64.rpm.sig_420": {
+        "name": "Clash.Verge-2.5.6-1.x86_64.rpm.sig",
+        "size": 420,
+        "updated_at": "2026-09-27T04:07:33+00:00",
+        "synced_at": "2026-09-27 04:07:33.881193"
+      },
+      "Clash.Verge_2.5.6_aarch64.app.tar.gz_82561393": {
+        "name": "Clash.Verge_2.5.6_aarch64.app.tar.gz",
+        "size": 82561393,
+        "updated_at": "2026-09-27T04:07:37+00:00",
+        "synced_at": "2026-09-27 04:07:37.172783"
+      },
+      "Clash.Verge_2.5.6_aarch64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_2.5.6_aarch64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2026-09-27T04:07:38+00:00",
+        "synced_at": "2026-09-27 04:07:38.632102"
+      },
+      "Clash.Verge_2.5.6_aarch64.dmg_80752966": {
+        "name": "Clash.Verge_2.5.6_aarch64.dmg",
+        "size": 80752966,
+        "updated_at": "2026-09-27T04:07:41+00:00",
+        "synced_at": "2026-09-27 04:07:41.964019"
+      },
+      "Clash.Verge_2.5.6_amd64.deb_102505340": {
+        "name": "Clash.Verge_2.5.6_amd64.deb",
+        "size": 102505340,
+        "updated_at": "2026-09-27T04:07:46+00:00",
+        "synced_at": "2026-09-27 04:07:46.490320"
+      },
+      "Clash.Verge_2.5.6_amd64.deb.sig_416": {
+        "name": "Clash.Verge_2.5.6_amd64.deb.sig",
+        "size": 416,
+        "updated_at": "2026-09-27T04:07:47+00:00",
+        "synced_at": "2026-09-27 04:07:47.881272"
+      },
+      "Clash.Verge_2.5.6_arm64-setup.exe_53349976": {
+        "name": "Clash.Verge_2.5.6_arm64-setup.exe",
+        "size": 53349976,
+        "updated_at": "2026-09-27T04:07:50+00:00",
+        "synced_at": "2026-09-27 04:07:50.646210"
+      },
+      "Clash.Verge_2.5.6_arm64-setup.exe.sig_424": {
+        "name": "Clash.Verge_2.5.6_arm64-setup.exe.sig",
+        "size": 424,
+        "updated_at": "2026-09-27T04:07:51+00:00",
+        "synced_at": "2026-09-27 04:07:52.106761"
+      },
+      "Clash.Verge_2.5.6_arm64.deb_98532644": {
+        "name": "Clash.Verge_2.5.6_arm64.deb",
+        "size": 98532644,
+        "updated_at": "2026-09-27T04:07:55+00:00",
+        "synced_at": "2026-09-27 04:07:56.037007"
+      },
+      "Clash.Verge_2.5.6_arm64_fixed_webview2-setup.exe_231991418": {
+        "name": "Clash.Verge_2.5.6_arm64_fixed_webview2-setup.exe",
+        "size": 231991418,
+        "updated_at": "2026-09-27T04:08:02+00:00",
+        "synced_at": "2026-09-27 04:08:02.930389"
+      },
+      "Clash.Verge_2.5.6_arm64_fixed_webview2-setup.exe.sig_424": {
+        "name": "Clash.Verge_2.5.6_arm64_fixed_webview2-setup.exe.sig",
+        "size": 424,
+        "updated_at": "2026-09-27T04:08:04+00:00",
+        "synced_at": "2026-09-27 04:08:04.335625"
+      },
+      "Clash.Verge_2.5.6_armhf.deb_102541442": {
+        "name": "Clash.Verge_2.5.6_armhf.deb",
+        "size": 102541442,
+        "updated_at": "2026-09-27T04:08:08+00:00",
+        "synced_at": "2026-09-27 04:08:08.730508"
+      },
+      "Clash.Verge_2.5.6_x64-setup.exe_59572259": {
+        "name": "Clash.Verge_2.5.6_x64-setup.exe",
+        "size": 59572259,
+        "updated_at": "2026-09-27T04:08:11+00:00",
+        "synced_at": "2026-09-27 04:08:11.651481"
+      },
+      "Clash.Verge_2.5.6_x64-setup.exe.sig_424": {
+        "name": "Clash.Verge_2.5.6_x64-setup.exe.sig",
+        "size": 424,
+        "updated_at": "2026-09-27T04:08:13+00:00",
+        "synced_at": "2026-09-27 04:08:13.202712"
+      },
+      "Clash.Verge_2.5.6_x64.app.tar.gz_87951772": {
+        "name": "Clash.Verge_2.5.6_x64.app.tar.gz",
+        "size": 87951772,
+        "updated_at": "2026-09-27T04:08:16+00:00",
+        "synced_at": "2026-09-27 04:08:17.064275"
+      },
+      "Clash.Verge_2.5.6_x64.app.tar.gz.sig_412": {
+        "name": "Clash.Verge_2.5.6_x64.app.tar.gz.sig",
+        "size": 412,
+        "updated_at": "2026-09-27T04:08:18+00:00",
+        "synced_at": "2026-09-27 04:08:18.600718"
+      },
+      "Clash.Verge_2.5.6_x64.dmg_86403296": {
+        "name": "Clash.Verge_2.5.6_x64.dmg",
+        "size": 86403296,
+        "updated_at": "2026-09-27T04:08:21+00:00",
+        "synced_at": "2026-09-27 04:08:21.700164"
+      },
+      "Clash.Verge_2.5.6_x64_fixed_webview2-setup.exe_249741738": {
+        "name": "Clash.Verge_2.5.6_x64_fixed_webview2-setup.exe",
+        "size": 249741738,
+        "updated_at": "2026-09-27T04:08:30+00:00",
+        "synced_at": "2026-09-27 04:08:30.535730"
+      },
+      "Clash.Verge_2.5.6_x64_fixed_webview2-setup.exe.sig_424": {
+        "name": "Clash.Verge_2.5.6_x64_fixed_webview2-setup.exe.sig",
+        "size": 424,
+        "updated_at": "2026-09-27T04:08:31+00:00",
+        "synced_at": "2026-09-27 04:08:31.909941"
+      },
+      "latest.json_6471": {
+        "name": "latest.json",
+        "size": 6471,
+        "updated_at": "2026-09-27T04:08:33+00:00",
+        "synced_at": "2026-09-27 04:08:33.362619"
+      }
     }
   },
   "source_codes": {
@@ -12987,6 +13131,16 @@
       "SourceCode_v2.5.5.tar.gz": {
         "exists": true,
         "synced_at": "2026-09-23 03:43:25.320039"
+      }
+    },
+    "v2.5.6": {
+      "SourceCode_v2.5.6.zip": {
+        "exists": true,
+        "synced_at": "2026-09-27 04:07:14.814329"
+      },
+      "SourceCode_v2.5.6.tar.gz": {
+        "exists": true,
+        "synced_at": "2026-09-27 04:07:17.531551"
       }
     }
   }
